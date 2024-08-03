@@ -26,11 +26,11 @@ global.ig = 'ano_nymous_sam' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254702713600'] // ubah aja pake nomor lu
+global.owner = ['254752588323'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = '⫹⸙⧉𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-𝐌𝐃⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
 global.author = '༻࿇𝙰𝚁𝙻𝙾_𝙳𝚁𝙰𝙶𝙾𝙽❖༺' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
@@ -40,7 +40,7 @@ global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.wlcm = []
 global.wlcmm = []
 global.anticall = true
-global.rn = 'typing'
+global.rn = 'false'
 /*
 Declaring Menu type
 
