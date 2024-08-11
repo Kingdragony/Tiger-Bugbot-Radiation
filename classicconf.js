@@ -26,11 +26,11 @@ global.ig = 'ano_nymous_sam' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'DRAGON' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254783491832'] // ubah aja pake nomor lu
+global.owner = ['254746764468'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
-global.botname = '⫹⸙⧉𓀬C̥ͦo̥ͦl̥ͦl̥ͦi̥ͦn̥ͦs̥ͦ𓅓-𝐌𝐃⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = '⫹⸙⧉DRAGON𝐃⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
 global.author = '༻࿇𝙰𝚁𝙻𝙾_𝙳𝚁𝙰𝙶𝙾𝙽❖༺' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
