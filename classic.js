@@ -3119,7 +3119,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `**sᵖⁱᵈᵉʳ ᴠ600 sᵖᵉᵉᵈ* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
