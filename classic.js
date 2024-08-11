@@ -1081,15 +1081,15 @@ case 'bugmenu': {
  
 `
 let hiks = {
-image: cewegw, 
+image:dragon, 
   caption: ewe,
   contextInfom:{externalAdReply:{
   title: 'ᚙᚘ ⫹⸙⧉TIGER-BUGBOT-RADIATION ⧉⸙⫺   - DRAGONᚘᚙ',
   body: 'ᚙᚘ ⫹⧉⸙TIGER-RADIATION᚛ ᚘᚙ', 
   showAdAttribution: true,
-  thumbnail:hinachan,
+  thumbnail:dragon,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`ig link `,
   }}
   }
@@ -1637,14 +1637,14 @@ case 'addmenu': {
 
 `
 let hiks = {
-image: cewegw, 
+image: dragon, 
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉DRAGON⧉',
   body: '༐༑⿻⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1738,12 +1738,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉⸙𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽⸙⧉',
+  body: '༐⫹⸙⧉𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1769,7 +1769,7 @@ await inireact()
 
 `
 let hiks = {
-image: cewegw, 
+image: dragon, 
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '⧉DRAGON⧉',
@@ -1777,7 +1777,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1838,7 +1838,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
 ┏━━━━━━━━━━━━━━━━
  ➨ 𝐓𝐡𝐢𝐬 𝐌𝐞𝐧𝐮 𝐢𝐬 𝐒𝐭𝐢𝐥𝐥 𝐔𝐧𝐝𝐞𝐫 𝐌𝐚𝐧𝐭𝐚𝐢𝐧𝐚𝐧𝐜𝐞 ⦾
  ➨𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
- ➨𝐓𝐲𝐩𝐞 .𝐨𝐰𝐧𝐞𝐫
+ ➨𝐨𝐰𝐧𝐞𝐫 +254746764468 𝐒𝐈𝐑. 𝐃𝐑𝐀𝐆𝐎𝐍
  ➨ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 TIGER-BUGBOT-RADIATION 
 ┗━━━━━━━━━━━━━━━━━━
 
@@ -1878,6 +1878,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
 ⦁𝐡𝐚𝐧𝐝𝐬𝐨𝐦𝐞𝐜𝐡𝐞𝐜𝐤
 ⦁𝐛𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥𝐜𝐡𝐞𝐜𝐤
 ⦁𝐭𝐭𝐬
+♕𝙰𝚛𝚕𝚘𝚍𝚛𝚊𝚐𝚘𝚗
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬`,
 mentions:[sender],
 contextInfo:{
@@ -2091,7 +2092,7 @@ case 'setprefix': {
     if (isBan) return reply(mess.banned);	 			
     if (isBanChat) return reply(mess.bangc);
     if (!isCreator) return reply(mess.botowner)
-      zetsubo.sendMessage(from, { react: { text: "🦋" , key: m.key }})
+      zetsubo.sendMessage(from, { react: { text: "☬" , key: m.key }})
 
     if (args.length !== 1) {
       return reply(`Please provide a single character as the new prefix.`);
@@ -2251,7 +2252,7 @@ break
 case 'invite': case 'link': {
 await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
-if (!m.isGroup) return reply('Make it in the Stupid Group')
+if (!m.isGroup) return reply('𝙶𝚛𝚘𝚞𝚙 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚜𝚒𝚛 😬')
 if (!isBotAdmins) return reply('Bot Bukan Admin Cuy')
 await inireact()
 let response = await zetsubo.groupInviteCode(from)
@@ -2262,7 +2263,7 @@ break
 case 'resetlink':
 await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
-if (!m.isGroup) return reply('Make it in the Stupid Group')
+if (!m.isGroup) return reply('𝙶𝚛𝚘𝚞𝚙 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚜𝚒𝚛😬')
 if (!isBotAdmins) return reply('Bot Bukan Admin Cuy')
 await inireact()
 zetsubo.groupRevokeInvite(from)
@@ -2570,8 +2571,8 @@ externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
 jpegThumbnail: ``,
-title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
-body: `⁗ Classic 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
+title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 😬`,
+body: `𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽`,
 previewType: "VIDEO",
 sourceUrl: `RADIATION 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
@@ -2925,7 +2926,7 @@ break
 //=================================================
 case 'larangan': case 'peraturan': {
 await inireact()
- if (!m.isGroup) return reply('Make it in the Stupid Group')
+ if (!m.isGroup) return reply('𝙶𝚛𝚘𝚞𝚙 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚜𝚒𝚛 😬')
 zetsubo.sendMessage(from, { text : `Haii 👋 Aku Shekai Bot ʜᴡ ᴍᴏᴅꜱ ᴡᴀ
 Aku Sebagai Admin Akan Melarang Kalian Untuk Toxic Ataupun Berkata Kasar Di group Ini !!!
 
@@ -2988,7 +2989,7 @@ case 'runtime':
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'zetszet/cheemspic.jpg',
+                            thumbnailUrl: 'https://telegra.ph/file/16800f718dad3ed52d516.jpg',
                             sourceUrl: 'https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH',
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -3111,14 +3112,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*Classifying*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*𝙻𝙾𝙰𝙳𝙸𝙽𝙶...⑅*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝓻𝓪𝓭𝓲𝓪𝓽𝓲𝓸𝓷 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -3329,7 +3330,7 @@ await inireact()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
 title: `𝐃𝐑𝐀𝐆𝐎𝐍`,
 sourceUrl: `https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`, 
 }
@@ -3349,7 +3350,7 @@ break
 case 'sc': case 'script': case 'repo':
 await inireact()
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
+ zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/16800f718dad3ed52d516.jpg` }, caption: 
 `╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑-𝐁𝐔𝐆𝐁𝐎𝐓-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 ☬.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
@@ -5548,7 +5549,7 @@ if (isBan) return reply('*Youre are banned with the owner. You dont have to act 
  await sleep(60000)
  if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
  console.log("Jawaban: " + result.jawaban)
- zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/297a0ffd35ca495c710b0.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
+ zetsubo.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/16800f718dad3ed52d516.jpg' }, caption: `Waktu Habis\nJawaban:  ${tebakkata[m.sender.split('@')[0]]}\n\nIngin bermain? Ketik tebak kata` }, {quoted:m}) 
  delete tebakkata[m.sender.split('@')[0]]
  }
  } else if (args[0] === 'kalimat') {
