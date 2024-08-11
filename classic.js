@@ -1028,7 +1028,7 @@ let messg = `
      ⦁𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬     
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 `
+© ARLODRAGON™`
 
 global.logo = "https://telegra.ph/file/1335d3dde45b461134016.jpg"
 global.vidmenu = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4"
