@@ -1168,7 +1168,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1206,7 +1206,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`ig link`,
+  sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1268,7 +1268,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`ig link`,
+  sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1317,13 +1317,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '𒑰⧉⸙DRAGON⧉',
+  body: '⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`🐉ig link`,
+  sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
