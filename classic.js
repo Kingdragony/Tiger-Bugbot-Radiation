@@ -1,7 +1,7 @@
 /*
 
-› Create By King Sam
-› Collaborator Tairo Makino
+› Create By ARLODRAGON 
+› Collaborator COLLINS
 
                  
 */
@@ -368,12 +368,12 @@ reply(`${err}`)
 }
 }
 	 
-const moji = ['🦠', '🦹', '🌏', '💢', '🩸', '🥳', '✅',]
+const moji = ['🐉', '🐉', '🤖', '🕷️', '🩸', '🐉', '🐉',]
 const randomemoji = moji[Math.floor(Math.random() * moji.length)]
 
 //Reaction
 const inireact = async () => {
-  const emojis = ["🤡", "🤯", "🔥", "💫", "👁️", "👀", "👽", "👾"];
+  const emojis = ["🚭", "🤖", "🔥", "🤐", "🙊", "👀", "😹", "🐉"];
   
   for (const emoji of emojis) {
     await sleep(80);
@@ -959,7 +959,7 @@ break
 		
 //=================================================//
 case 'onekill': {
-if (!isCreator) return reply("Only Classic-v3-BUG owner can use this command")
+if (!isCreator) return reply("Only TIGER-BUGBOT-RADIATION  owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
@@ -987,7 +987,7 @@ await ngeloc(target, force)
 await ngeloc(target, force)
 await ngeloc(target, force)
 }
-await reply(`Successfully Send Bug to ${target} Using ${command}. ✅\n\n Wait some minutes to avoid ban.`)
+await reply(`Successfully Send Bug to ${target} Using ${command}. 🐉\n\n Wait some minutes to avoid ban.`)
 }
 break
 //========================+=======
@@ -1084,13 +1084,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉TIGER-BUGBOT-RADIATION ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙⧉TIGER-BUGBOT-RADIATION ⧉⸙⫺   - DRAGONᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙TIGER-RADIATION᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`ig link `,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1111,13 +1111,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺',
+  body: 'DRAGON࿈', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`ig link`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1126,8 +1126,8 @@ break
 case 'groupmenu': {
 
                             ewe = ` *TIGER-BUGBOT-RADIATION* 
-🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
  
 ┏━━━━━━━━━━━━━━━━━━━
 ┃➟ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
@@ -1162,12 +1162,12 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰TIGER-RADIATION',
+  body: 'DRAGON™', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1177,8 +1177,8 @@ break
 case 'downloadmenu': {
 
                             ewe = ` *TIGER-BUGBOT-RADIATION* 
-    🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-    🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+    🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+    🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
 ┏━━━━━━━━━━━━━━━━━
 ┃➟ 𝐟𝐛𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
@@ -1200,13 +1200,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: 'TIGER-RADIATION',
+  body: '༐༑DRAGON®༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`ig link`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1214,9 +1214,9 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
-  🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-  🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+                            ewe = `*TIGER-BUGBOT-RADIATION* 
+  🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+  🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
 ┏━━━━━━━━━━━━━━━━
 ┃➟ 𝒐𝒘𝒏𝒆𝒓
@@ -1262,13 +1262,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝐒𝐚𝐦 ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺༔༐༑', 
+  title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 DRAGON 🐉᚛⿻',
+  body: 'TIGER-RADIATION', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`ig link`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1322,8 +1322,8 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`🐉ig link`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1400,13 +1400,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: 'TIGER-RADIATION',
+  body: '༐༑⿻⫹⸙⧉TIGER-RADIATION⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1414,9 +1414,9 @@ break
 //=================================================//
 case 'listmusik': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
-       🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-       🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+                            ewe = ` *TIGER-BUGBOT-RADIATION*
+       🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+       🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
        
 ┏━━━━━━━━━━━━━━━━
 ┃┏⊱ 𝐋𝐈𝐒𝐓 𝐒𝐎𝐔𝐍𝐃
@@ -1588,13 +1588,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉DRAGON⧉',
+  body: '༐༑⿻⫹⸙⧉TIGER-RADIATION⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1602,9 +1602,9 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
-  🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-  🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+                            ewe = ` *TIGER-BUGBOT-RADIATION * 
+  🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+  🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
 ┃➟ 𝒔𝒆𝒕𝒄𝒎𝒅
 ┃➟ 𝒅𝒆𝒍𝒄𝒎𝒅
@@ -1640,11 +1640,11 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉DRAGON⧉',
+  body: '༐༑⿻⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1653,8 +1653,8 @@ break
 //=================================================//
 case 'cucimata': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━▓ *TIGER-BUGBOT-RADIATION * ▓━━━━━━━
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 DRAGON ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1731,7 +1731,7 @@ case 'cucimata': {
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *TIGER-BUGBOT-RADIATION ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
@@ -1743,8 +1743,8 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1752,9 +1752,9 @@ break
 //=================================================//
 case 'ownermenu': {
 await inireact()
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
-  🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-  🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+                            ewe = ` *TIGER-BUGBOT-RADIATION * 
+  🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+  🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━
 ┃➢ 𝐚𝐝𝐝𝐩𝐫𝐞𝐦 (254xx/@𝐭𝐚𝐠)
 ┃➢ 𝐝𝐞𝐥𝐩𝐫𝐞𝐦𝐢𝐮𝐦 (254𝐱𝐱/@𝐭𝐚𝐠)
@@ -1772,13 +1772,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉DRAGON⧉',
+  body: '⫹⸙⧉TIGER-BUGBOT-RADIATION⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1793,10 +1793,10 @@ text: `𝑯𝒆𝒍𝒍𝒐 ${pushname}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬    
  🌎 𝐀𝐋𝐋 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 🥳
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬     
- ⦁ 𝐙𝐞𝐭𝐬𝐮𝐛𝐨𝐨𝐱𝐲𝐠 ⥈ 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 🇮🇩
+ ⦁ 𝐙𝐞𝐭𝐬𝐮𝐛𝐨𝐨𝐱𝐲𝐠 ⥈ 🤖
  ➢ 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐛𝐚𝐬𝐞 𝐜𝐨𝐝𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐚𝐬𝐞 𝐦𝐞𝐭𝐡𝐨𝐝
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ⥈ 𝐊𝐞𝐧𝐲𝐚 🇰🇪
+ ⦁ ARLODRAGON ⥈ 𝐊𝐞𝐧𝐲𝐚 🇰🇪
  ➢ 𝐒𝐜𝐫𝐢𝐩𝐭 𝐦𝐚𝐧𝐭𝐚𝐢𝐧𝐚𝐧𝐜𝐞 𝐚𝐧𝐝 𝐦𝐚𝐝𝐞 𝐢𝐭 𝐚 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐛𝐨𝐭
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
  ⦁ 𝐋𝐨𝐫𝐝 𝐓𝐚𝐢𝐫𝐚 ⥈ 𝐍𝐢𝐠𝐞𝐫𝐢𝐚 🇳🇬
@@ -1808,7 +1808,7 @@ text: `𝑯𝒆𝒍𝒍𝒐 ${pushname}
  ⦁ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 ${pushname} 
  ➢ 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐁𝐨𝐭 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-© 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕3 𝐁𝐎𝐓
+© TiGER-BUGBOT-RADIATION
 `,
 mentions:[sender],
 contextInfo:{
@@ -1816,7 +1816,7 @@ mentionedJid:[sender],
 "externalAdReply": {
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
-"title": `© 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕3 𝐁𝐎𝐓`, 
+"title": `© TIGER-BUGBOT-RADIATION `, 
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": rimuwu,
@@ -1839,7 +1839,7 @@ Status : ${isCreator ? 'Premium' : 'Free'}
  ➨ 𝐓𝐡𝐢𝐬 𝐌𝐞𝐧𝐮 𝐢𝐬 𝐒𝐭𝐢𝐥𝐥 𝐔𝐧𝐝𝐞𝐫 𝐌𝐚𝐧𝐭𝐚𝐢𝐧𝐚𝐧𝐜𝐞 ⦾
  ➨𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
  ➨𝐓𝐲𝐩𝐞 .𝐨𝐰𝐧𝐞𝐫
- ➨ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭
+ ➨ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 TIGER-BUGBOT-RADIATION 
 ┗━━━━━━━━━━━━━━━━━━
 
 `,
@@ -2151,9 +2151,9 @@ if (!isCreator) return reply(mess.premium)
 if (!text) return reply(`Example: ${prefix + command} 25472823838,1`);
 sendto = q.split(",")[0]+"@s.whatsapp.net"
 jumlah = q.split(",")[1]
-hmbug(sendto, `CLASSIC BOT 🤧💀 ...~${ios1}`)
+hmbug(sendto, `TIGER-BUGBOT-RADIATION🤧💀 ...~${ios1}`)
 await sleep(5000)
-hmbug(sendto, `CLASSIC BOT 💀${ios1}`)
+hmbug(sendto, `TIGER-BUGBOT-RADIATION 💀${ios1}`)
 await sleep(5000)
 reply(mess.bugrespon + `\n❗Detail > \n😎 Target Number: ${sendto} \nBug Command: ${command}\n😋 Quantity: ${jumlah}`)
 }
@@ -2171,7 +2171,7 @@ hmbug(sendto, jumlah,  `I even Dont know 💀 `)
 await sleep(1000)
 await ryobug(sendto, jumlah,  `💔'҉Why You messed with❤️‍🩹`)
 await sleep(1000)
-await ryobug(sendto, jumlah,  `Classic Bot 🫂`)
+await ryobug(sendto, jumlah,  `TIGER-BUGBOT-RADIATION 🫂`)
 await sleep(1000)
 hmbug(sendto, jumlah,  `Go to hell 😕 `)
 await sleep(1000)
@@ -2216,9 +2216,9 @@ for (let i = 0; i < 10; i++) {
 }];
 
 let listMessage = {
-    text: `💣𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 💀`,
+    text: `💣 DRAGONARLO 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `Classic - V3`,
+    buttonText: `TIGER-BUGBOT-RADIATION`,
     sections
 };
 
@@ -2427,10 +2427,10 @@ await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.isGroup) return
 await inireact()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ TIGER-BUGBOT-RADIATION࿉* ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
-teks += `🩸 @${mem.id.split('@')[0]}\n`
+teks += `🐉 @${mem.id.split('@')[0]}\n`
 }
 zetsubo.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, { quoted:m })
 }
@@ -2534,7 +2534,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `✳️᜴࿆͆᷍Classic̿╮⭑ ☠️⃰͜͡؜Virus⃟⭐️᜴▴Activatedཀ͜͡✅⃟╮.xp`,
+    "caption": `✳️᜴࿆͆᷍TIGER-RADIATION╮⭑ ☠️⃰͜͡؜Virus⃟⭐️᜴▴Activatedཀ͜͡✅⃟╮.xp`,
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -2543,7 +2543,7 @@ message: {
 }), { userJid: m.chat, quoted: force })
 await zetsubo.relayMessage(m.chat, etc.message, { messageId: etc.key.id })
 }
-await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Classic 📡')
+await reply('🐉𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 TIGER-RADIATION')
 }
 break
 //=================================================
@@ -2573,12 +2573,12 @@ jpegThumbnail: ``,
 title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
 body: `⁗ Classic 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
 previewType: "VIDEO",
-sourceUrl: `Classic 𝕾𝖚𝖈𝖐𝖘`,
+sourceUrl: `RADIATION 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
 mediaUrl: `${global.url}`
 }
 },
-text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸'
+text: '🐉𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 DRAGON 🩸'
 }, {
 quoted: m
 })
@@ -2980,7 +2980,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝐓𝐈𝐆𝐄𝐑-𝐁𝐔𝐆𝐁𝐎𝐓-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -2989,7 +2989,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'zetszet/cheemspic.jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
+                            sourceUrl: 'https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -3118,7 +3118,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝕮𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖉 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝓻𝓪𝓭𝓲𝓪𝓽𝓲𝓸𝓷 ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
@@ -3329,9 +3329,9 @@ await inireact()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
-sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
+MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+title: `𝐃𝐑𝐀𝐆𝐎𝐍`,
+sourceUrl: `https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`, 
 }
 }})
 break
@@ -3350,7 +3350,7 @@ case 'sc': case 'script': case 'repo':
 await inireact()
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/b103691007c8ce5ee8a94.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝑪𝑳𝑨𝑺𝑺𝑰𝑪_𝑨𝑰 𝑩𝑶𝑻 ☣.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Samue-l1/Classic-v3-BUG ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐊𝐈𝐍𝐆 𝐒𝐀𝐌 ✇\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑-𝐁𝐔𝐆𝐁𝐎𝐓-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 ☬.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
 
    break;
 //=================================================
@@ -3410,9 +3410,9 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
-          body: "https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV",
-          thumbnailUrl: "https://telegra.ph/file/f6d66a60454e31e0a2c0d.jpg",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐓𝐢𝐠𝐞𝐫-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 𝐁𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          body: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
+          thumbnailUrl: "https://telegra.ph/file/1335d3dde45b461134016.jpg",
           sourceUrl: "https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV",
           mediaType: 1,
           renderLargerThumbnail: true
