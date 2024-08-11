@@ -1,12 +1,12 @@
  
 
-<h1 align="center">ꪶTiger-Bugbot-Radiationꫂ<br></h1>
+<h1 align="center">☬Tiger-Bugbot-Radiation☬<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
 
 <p align="center">
-𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https://github.com/kingdragony" target="_blank">DRAGON</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
