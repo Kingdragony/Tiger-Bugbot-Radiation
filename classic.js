@@ -1081,13 +1081,13 @@ case 'bugmenu': {
  
 `
 let hiks = {
-image:dragon, 
+image:cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
   title: 'ᚙᚘ ⫹⸙⧉TIGER-BUGBOT-RADIATION ⧉⸙⫺   - DRAGONᚘᚙ',
   body: 'ᚙᚘ ⫹⧉⸙TIGER-RADIATION᚛ ᚘᚙ', 
   showAdAttribution: true,
-  thumbnail:dragon,
+  thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`ig link `,
@@ -1116,7 +1116,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`ig link`,
   }}
   }
@@ -1167,7 +1167,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
@@ -1205,7 +1205,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
@@ -1267,7 +1267,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
@@ -1322,7 +1322,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
   }}
   }
@@ -1405,7 +1405,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1593,7 +1593,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
   sourceUrl:`https://www.instagram.com/kipkoechrono?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
