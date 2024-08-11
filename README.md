@@ -98,8 +98,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
-cd Classic-v3-BUG
+git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation
+cd TIGER-BUGBOT-RADIATION 
 yarn install
 npm start
 ```
@@ -111,8 +111,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
-cd Classic-v3-BUG
+git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation 
+cd TIGER-BUGBOT-RADIATION 
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
