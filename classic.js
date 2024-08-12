@@ -1032,7 +1032,7 @@ let messg = `
 
 global.logo = "https://telegra.ph/file/16800f718dad3ed52d516.jpg"
 global.vidmenu = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4"
-if(menutype === "v1") {
+if(menutype === "v2") {
         let buttonMessage = {
         image: { url: global.logo },
         caption: messg
@@ -1400,13 +1400,13 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙DRAGON⸙⧉',
+  body: '༐༑⿻⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-  sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+  MediaUrl:`https://telegra.ph/file/1335d3dde45b461134016.jpg`,
+  sourceUrl:`https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1731,7 +1731,7 @@ case 'cucimata': {
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *TIGER-BUGBOT-RADIATION ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
@@ -2980,7 +2980,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐁𝐨𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `TIGER-BUGBOT-RADIATION 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -3111,14 +3111,14 @@ break
 //=================================================// 
 case 'ping': {
   const startTime = new Date();
-  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*Classifying*' });
+  const pingMsg = await zetsubo.sendMessage(m.chat, { text: '*𝙻𝙾𝙰𝙳𝙸𝙽𝙶..⑅*' });
 
  await zetsubo.relayMessage(m.chat, {
       protocolMessage: {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝕮𝖑𝖆𝖘𝖘𝖎𝖋𝖎𝖊𝖉 ➟* *${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝚃ⁱᵍᵉʳ-𝙱ᵘᵍᵇᵒᵗ-𝚁ᵃᵈⁱᵃᵗⁱᵒⁿ ➟* *${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
