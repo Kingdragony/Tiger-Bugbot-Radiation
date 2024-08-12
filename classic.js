@@ -1104,14 +1104,14 @@ case 'pushmenu': {
 ✇✎ 𝐒𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤𝐢𝐝
 ✇✎ 𝐬𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤
 ✇✎ 𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝
-☸☸☸☸☸☸☸☸☸☸☸☸☸☸☸
+☸☸☸☸☸☸☸☸☸☸☸
 
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺',
+  title: '⫹⸙⧉TIGER-BUGBOT-RADIATION⫺',
   body: 'DRAGON࿈', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1155,7 +1155,7 @@ case 'groupmenu': {
 ✇༄ 𝖗𝖊𝖘𝖊𝖙𝖑𝖎𝖓𝖐
 ✇༄ 𝖓𝖚𝖙𝖊
 ✇༄ 𝖙𝖆𝖌𝖆𝖉𝖒𝖎𝖓𝖘
-☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬
+☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬🐉
 
 `
 let hiks = {
@@ -1193,7 +1193,7 @@ case 'downloadmenu': {
 ✆➟ 𝐲𝐭𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
 ✆➟ 𝐏𝐥𝐚𝐲 
 ✆➟ 𝐭𝐨𝐮𝐫𝐥
-┗━⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆
+┗━⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆🐉
 
 `
 let hiks = {
@@ -1255,7 +1255,7 @@ case 'randommenu': {
 ✇☛ 𝒄𝒆𝒓𝒑𝒆𝒏
 ✇☛ 𝒒𝒄
 ✇☛ 𝒒𝒄𝒔𝒕𝒊𝒄𝒌
-┗✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
+┗✇✇✇✇✇✇✇✇✇✇✇✇✇
 
 `
 let hiks = {
