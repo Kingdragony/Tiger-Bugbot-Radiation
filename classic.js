@@ -297,7 +297,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `༐༑⿻𝐒⸙𝐀࿈𝐌.𝐕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑ - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/16800f718dad3ed52d516.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `☬⿻ARLODRAGON⿻༔☬ - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/16800f718dad3ed52d516.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
@@ -305,7 +305,7 @@ const zetsreply = async (teks) => {
         body : `⧉⸙T⚔I᪥GᚘEᚗR⸙𝐀࿈X⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
+        mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
         mediaType: 2, 
         thumbnail:sangean
         }}}, { quoted: zets })}
@@ -316,7 +316,7 @@ const virgamreply = async (teks) => {
         body : `⧉⸙DRAGON⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
         mediaType: 2, 
         thumbnail:virgam
         }}}, { quoted: kalgans })}
@@ -327,7 +327,7 @@ const genreply = async (teks) => {
         body : `⧉DRAGON⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
-        mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
+        mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
         mediaType: 2, 
         thumbnail:hinachan
         }}}, { quoted: zets })} 
@@ -1047,7 +1047,7 @@ if(menutype === "v1") {
 } else if (menutype === "v3") {
         await zetsubo.sendMessage(from, { text: messg })
 } else if (menutype === "v4") {
-const _0xc6d439=_0x1307;function _0x2fda(){const _0x2ca07e=['{\x22display_text\x22:\x22MENU\x20List🚀\x22,\x22id\x22:\x22','Header','{\x22display_text\x22:\x22𝐎𝐰𝐧𝐞𝐫\x20👤\x20\x22,\x22url\x22:\x22https://wa.me/+254746764468?text=Hello+Arlo+Dragon\x22,\x22merchant_url\x22:\x22https://wa.me/+254746764468?text=Hello+Arlo+Dragon\x22}','1062dsKEpD','Message','Arlo\x20Dragon','NativeFlowMessage','Footer','35990pqDktI','2EmhfAb','key','{\x22display_text\x22:\x22☄️𝐑𝐔𝐍𝐓𝐈𝐌𝐄\x20💥\x22,\x22id\x22:\x22','waUploadToServer','861WorFzg','33AfbFog','16xamGrV','Error\x20generating\x20and\x20relaying\x20message.','InteractiveMessage','error','672661zulcCS','1026lhwYhS','28406EHRQlw','relayMessage','cta_url','46936sbQqrd','{\x22display_text\x22:\x22PING\x20💤\x22,\x22id\x22:\x22','quick_reply','311775PiJuVY','Body','taira\x22}','𝕶𝖎𝖓𝖌\x20𝕾𝖆𝖒','https://telegra.ph/file/16800f718dad3ed52d516.jpg','{\x22display_text\x22:\x22𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍\x20\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22}','ping\x22}','1447020IsfuXV','message','{\x22display_text\x22:\x22𝐇𝐨𝐰\x20𝐓𝐨\x20𝐃𝐞𝐩𝐥𝐨𝐲\x20📺\x22,\x22url\x22:\x22https://youtube.com/@king_sam_hub\x22,\x22merchant_url\x22:\x22https://youtube.com/@king_sam_hub\x22}'];_0x2fda=function(){return _0x2ca07e;};return _0x2fda();}function _0x1307(_0xf2496d,_0x155a5f){const _0x2fda95=_0x2fda();return _0x1307=function(_0x1307e5,_0x3cd16c){_0x1307e5=_0x1307e5-0x181;let _0x38deba=_0x2fda95[_0x1307e5];return _0x38deba;},_0x1307(_0xf2496d,_0x155a5f);}(function(_0x3ce95d,_0x3e6418){const _0x1fed22=_0x1307,_0x2b547b=_0x3ce95d();while(!![]){try{const _0x41d3f5=-parseInt(_0x1fed22(0x1a2))/0x1*(-parseInt(_0x1fed22(0x198))/0x2)+-parseInt(_0x1fed22(0x181))/0x3*(-parseInt(_0x1fed22(0x19e))/0x4)+parseInt(_0x1fed22(0x189))/0x5*(-parseInt(_0x1fed22(0x1a3))/0x6)+-parseInt(_0x1fed22(0x19c))/0x7*(parseInt(_0x1fed22(0x1a7))/0x8)+-parseInt(_0x1fed22(0x192))/0x9*(parseInt(_0x1fed22(0x197))/0xa)+-parseInt(_0x1fed22(0x19d))/0xb*(-parseInt(_0x1fed22(0x18c))/0xc)+parseInt(_0x1fed22(0x188))/0xd*(parseInt(_0x1fed22(0x1a4))/0xe);if(_0x41d3f5===_0x3e6418)break;else _0x2b547b['push'](_0x2b547b['shift']());}catch(_0x35211c){_0x2b547b['push'](_0x2b547b['shift']());}}}(_0x2fda,0x5ae7b));try{let msg=generateWAMessageFromContent(m[_0xc6d439(0x199)][_0xc6d439(0x187)],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto[_0xc6d439(0x193)]['InteractiveMessage'][_0xc6d439(0x186)]({'body':proto['Message'][_0xc6d439(0x1a0)][_0xc6d439(0x182)]['create']({'text':_0xc6d439(0x184)}),'footer':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x196)][_0xc6d439(0x186)]({'text':_0xc6d439(0x194)}),'header':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x190)][_0xc6d439(0x186)]({...await prepareWAMessageMedia({'image':{'url':_0xc6d439(0x185)}},{'upload':zetsubo[_0xc6d439(0x19b)]}),'title':'','subtitle':'Classic-v3-BUG','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x195)]['create']({'buttons':[{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x18f)+prefix+_0xc6d439(0x183)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x1a8)+prefix+_0xc6d439(0x18b)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x19a)+prefix+'runtime\x22}'},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18a)},{'name':'cta_url','buttonParamsJson':_0xc6d439(0x191)},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18e)}]})})}}},{});if(!msg||!msg[_0xc6d439(0x199)]||!msg[_0xc6d439(0x199)][_0xc6d439(0x187)]||!msg['key']['id']){const errorMessage='Error:\x20Invalid\x20message\x20key.';return console[_0xc6d439(0x1a1)](errorMessage),reply(errorMessage);}await zetsubo[_0xc6d439(0x1a5)](msg[_0xc6d439(0x199)][_0xc6d439(0x187)],msg[_0xc6d439(0x18d)],{'messageId':msg[_0xc6d439(0x199)]['id']});}catch(_0xf39789){return console[_0xc6d439(0x1a1)]('Error\x20generating\x20and\x20relaying\x20message:',_0xf39789),reply(_0xc6d439(0x19f));}
+const _0xc6d439=_0x1307;function _0x2fda(){const _0x2ca07e=['{\x22display_text\x22:\x22MENU\x20List🚀\x22,\x22id\x22:\x22','Header','{\x22display_text\x22:\x22𝐎𝐰𝐧𝐞𝐫\x20👤\x20\x22,\x22url\x22:\x22https://wa.me/+254746764468?text=Hello+Arlo+Dragon\x22,\x22merchant_url\x22:\x22https://wa.me/+254746764468?text=Hello+Arlo+Dragon\x22}','1062dsKEpD','Message','Arlo\x20Dragon','NativeFlowMessage','Footer','35990pqDktI','2EmhfAb','key','{\x22display_text\x22:\x22☄️𝐑𝐔𝐍𝐓𝐈𝐌𝐄\x20💥\x22,\x22id\x22:\x22','waUploadToServer','861WorFzg','33AfbFog','16xamGrV','Error\x20generating\x20and\x20relaying\x20message.','InteractiveMessage','error','672661zulcCS','1026lhwYhS','28406EHRQlw','relayMessage','cta_url','46936sbQqrd','{\x22display_text\x22:\x22PING\x20💤\x22,\x22id\x22:\x22','quick_reply','311775PiJuVY','Body','taira\x22}',Arlo\x20Dragon','https://telegra.ph/file/16800f718dad3ed52d516.jpg','{\x22display_text\x22:\x22𝐂𝐡𝐚𝐧𝐧𝐞𝐥📍\x20\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e\x22}','ping\x22}','1447020IsfuXV','message','{\x22display_text\x22:\x22𝐇𝐨𝐰\x20𝐓𝐨\x20𝐃𝐞𝐩𝐥𝐨𝐲\x20📺\x22,\x22url\x22:\x22https://youtube.com/@king_sam_hub\x22,\x22merchant_url\x22:\x22https://youtube.com/@king_sam_hub\x22}'];_0x2fda=function(){return _0x2ca07e;};return _0x2fda();}function _0x1307(_0xf2496d,_0x155a5f){const _0x2fda95=_0x2fda();return _0x1307=function(_0x1307e5,_0x3cd16c){_0x1307e5=_0x1307e5-0x181;let _0x38deba=_0x2fda95[_0x1307e5];return _0x38deba;},_0x1307(_0xf2496d,_0x155a5f);}(function(_0x3ce95d,_0x3e6418){const _0x1fed22=_0x1307,_0x2b547b=_0x3ce95d();while(!![]){try{const _0x41d3f5=-parseInt(_0x1fed22(0x1a2))/0x1*(-parseInt(_0x1fed22(0x198))/0x2)+-parseInt(_0x1fed22(0x181))/0x3*(-parseInt(_0x1fed22(0x19e))/0x4)+parseInt(_0x1fed22(0x189))/0x5*(-parseInt(_0x1fed22(0x1a3))/0x6)+-parseInt(_0x1fed22(0x19c))/0x7*(parseInt(_0x1fed22(0x1a7))/0x8)+-parseInt(_0x1fed22(0x192))/0x9*(parseInt(_0x1fed22(0x197))/0xa)+-parseInt(_0x1fed22(0x19d))/0xb*(-parseInt(_0x1fed22(0x18c))/0xc)+parseInt(_0x1fed22(0x188))/0xd*(parseInt(_0x1fed22(0x1a4))/0xe);if(_0x41d3f5===_0x3e6418)break;else _0x2b547b['push'](_0x2b547b['shift']());}catch(_0x35211c){_0x2b547b['push'](_0x2b547b['shift']());}}}(_0x2fda,0x5ae7b));try{let msg=generateWAMessageFromContent(m[_0xc6d439(0x199)][_0xc6d439(0x187)],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto[_0xc6d439(0x193)]['InteractiveMessage'][_0xc6d439(0x186)]({'body':proto['Message'][_0xc6d439(0x1a0)][_0xc6d439(0x182)]['create']({'text':_0xc6d439(0x184)}),'footer':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x196)][_0xc6d439(0x186)]({'text':_0xc6d439(0x194)}),'header':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x190)][_0xc6d439(0x186)]({...await prepareWAMessageMedia({'image':{'url':_0xc6d439(0x185)}},{'upload':zetsubo[_0xc6d439(0x19b)]}),'title':'','subtitle':'Classic-v3-BUG','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0xc6d439(0x193)][_0xc6d439(0x1a0)][_0xc6d439(0x195)]['create']({'buttons':[{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x18f)+prefix+_0xc6d439(0x183)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x1a8)+prefix+_0xc6d439(0x18b)},{'name':_0xc6d439(0x1a9),'buttonParamsJson':_0xc6d439(0x19a)+prefix+'runtime\x22}'},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18a)},{'name':'cta_url','buttonParamsJson':_0xc6d439(0x191)},{'name':_0xc6d439(0x1a6),'buttonParamsJson':_0xc6d439(0x18e)}]})})}}},{});if(!msg||!msg[_0xc6d439(0x199)]||!msg[_0xc6d439(0x199)][_0xc6d439(0x187)]||!msg['key']['id']){const errorMessage='Error:\x20Invalid\x20message\x20key.';return console[_0xc6d439(0x1a1)](errorMessage),reply(errorMessage);}await zetsubo[_0xc6d439(0x1a5)](msg[_0xc6d439(0x199)][_0xc6d439(0x187)],msg[_0xc6d439(0x18d)],{'messageId':msg[_0xc6d439(0x199)]['id']});}catch(_0xf39789){return console[_0xc6d439(0x1a1)]('Error\x20generating\x20and\x20relaying\x20message:',_0xf39789),reply(_0xc6d439(0x19f));}
 }  else return
 }
 break
@@ -1062,20 +1062,20 @@ case 'bugmenu': {
                             ewe = ` *TIGER-BUGBOT-RADIATION* 
                             
   
-  🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-  🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+   🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
+   🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏━━━━━━━━━━━━━━━━━━
-┃➢ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜𝐥-𝐤𝐢𝐥𝐥(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐜-𝐤𝐢𝐥𝐥 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃➢ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
-┃➢ 𝐞𝐯𝐢𝐥-𝐬𝐚
-┃➢ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
-┃➢ onekill (254xxxxx)
-┗━━━━━━━━━━━━━━━━━━
+✇𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽𝚂✇✇✇✇✇✇✇
+⟱✇ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+⟰✇ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+⟱✇ 𝐜𝐥-𝐤𝐢𝐥𝐥(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+⟰✇ 𝐜-𝐤𝐢𝐥𝐥 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+⟱✇ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+⟰✇ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
+⟱✇ 𝐞𝐯𝐢𝐥-𝐬𝐚
+⟰✇ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
+➽✇onekill (254xxxxx)
+✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
 
 © ARLODRAGON ™
  
@@ -1090,7 +1090,7 @@ image:cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
-  sourceUrl:`ig link `,
+  sourceUrl:`https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1098,13 +1098,13 @@ break
 case 'pushmenu': {
 
                             ewe = ` *TIGER-BUGBOT-RADIATION* 
-   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
-    🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
-┏━━━━━━━━━━━━━━━━━━━
-┃➢ 𝐒𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤𝐢𝐝
-┃➢ 𝐬𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤
-┃➢ 𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝
-┗━━━━━━━━━━━━━━━━━━━
+   ♕ 𝐔𝐬𝐞𝐫 : ${pushname}}
+   ☬ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+┏✇✇✇✇✇✇✇✇✇✇✇✇✇✇
+✇✎ 𝐒𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤𝐢𝐝
+✇✎ 𝐬𝐚𝐯𝐞𝐤𝐨𝐧𝐭𝐚𝐤
+✇✎ 𝐩𝐮𝐬𝐡𝐜𝐨𝐧𝐭𝐢𝐝
+☸☸☸☸☸☸☸☸☸☸☸☸☸☸☸
 
 `
 let hiks = {
@@ -1117,7 +1117,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
-  sourceUrl:`ig link`,
+  sourceUrl:`https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1129,33 +1129,33 @@ case 'groupmenu': {
 🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
 🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
  
-┏━━━━━━━━━━━━━━━━━━━
-┃➟ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
-┃➟ 𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
-┃➟ 𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
-┃➟ 𝖇𝖈𝖌𝖈 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖔𝖕𝖊𝖓𝖆𝖎 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖍𝖎𝖉𝖊𝖙𝖆𝖌 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖐𝖎𝖈𝖐 (628𝖝𝖝)
-┃➟ 𝖆𝖉𝖉 (628𝖝𝖝)
-┃➟ 𝖕𝖗𝖔𝖒𝖔𝖙𝖊 (628𝖝𝖝)
-┃➟ 𝖉𝖊𝖒𝖔𝖙𝖊 (628𝖝𝖝)
-┃➟ 𝖘𝖊𝖓𝖉𝖑𝖎𝖓𝖐𝖌𝖈 (628𝖝𝖝)
-┃➟ 𝖊𝖉𝖎𝖙𝖌𝖗𝖔𝖚𝖕 𝖈𝖑𝖔𝖘𝖊 / 𝖔𝖕𝖊𝖓
-┃➟ 𝖊𝖉𝖎𝖙𝖎𝖓𝖋𝖔 𝖔𝖓 / 𝖔𝖋𝖋
-┃➟ 𝖏𝖔𝖎𝖓 (𝖑𝖎𝖓𝖐𝖓𝖞𝖆)
-┃➟ 𝖊𝖉𝖎𝖙𝖘𝖚𝖇𝖏𝖊𝖐 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖊𝖉𝖎𝖙𝖉𝖊𝖘𝖐 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖙𝖆𝖌𝖆𝖑𝖑 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
-┃➟ 𝖎𝖓𝖘𝖕𝖊𝖈𝖙 (𝖑𝖎𝖓𝖐𝖓𝖞𝖆)
-│➟ 𝖑𝖎𝖓𝖐𝖌𝖗𝖔𝖚𝖕
-┃➟ 𝖗𝖊𝖘𝖊𝖙𝖑𝖎𝖓𝖐𝖌𝖈
-┃➟ 𝖕𝖗𝖔𝖒𝖔𝖙𝖊𝖆𝖑𝖑
-┃➟ 𝖉𝖊𝖒𝖔𝖙𝖊𝖆𝖑𝖑
-┃➟ 𝖗𝖊𝖘𝖊𝖙𝖑𝖎𝖓𝖐
-┃➟ 𝖓𝖚𝖙𝖊
-┃➟ 𝖙𝖆𝖌𝖆𝖉𝖒𝖎𝖓𝖘
-┗━━━━━━━━━━━━━━━━━
+┏✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
+✇༄ 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 𝖔𝖓 / 𝖔𝖋𝖋
+✇༄ 𝖆𝖓𝖙𝖎𝖑𝖎𝖓𝖐 𝖔𝖓 / 𝖔𝖋𝖋
+✇༄ 𝖆𝖓𝖙𝖎𝖙𝖔𝖝𝖎𝖈 𝖔𝖓 / 𝖔𝖋𝖋
+✇༄ 𝖇𝖈𝖌𝖈 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖔𝖕𝖊𝖓𝖆𝖎 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖍𝖎𝖉𝖊𝖙𝖆𝖌 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖐𝖎𝖈𝖐 (628𝖝𝖝)
+✇༄ 𝖆𝖉𝖉 (628𝖝𝖝)
+✇༄ 𝖕𝖗𝖔𝖒𝖔𝖙𝖊 (628𝖝𝖝)
+✇༄ 𝖉𝖊𝖒𝖔𝖙𝖊 (628𝖝𝖝)
+✇༄ 𝖘𝖊𝖓𝖉𝖑𝖎𝖓𝖐𝖌𝖈 (628𝖝𝖝)
+✇༄ 𝖊𝖉𝖎𝖙𝖌𝖗𝖔𝖚𝖕 𝖈𝖑𝖔𝖘𝖊 / 𝖔𝖕𝖊𝖓
+✇༄ 𝖊𝖉𝖎𝖙𝖎𝖓𝖋𝖔 𝖔𝖓 / 𝖔𝖋𝖋
+✇༄ 𝖏𝖔𝖎𝖓 (𝖑𝖎𝖓𝖐𝖓𝖞𝖆)
+✇༄ 𝖊𝖉𝖎𝖙𝖘𝖚𝖇𝖏𝖊𝖐 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖊𝖉𝖎𝖙𝖉𝖊𝖘𝖐 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖙𝖆𝖌𝖆𝖑𝖑 (𝖙𝖊𝖝𝖙𝖓𝖞𝖆)
+✇༄ 𝖎𝖓𝖘𝖕𝖊𝖈𝖙 (𝖑𝖎𝖓𝖐𝖓𝖞𝖆)
+✇༄ 𝖑𝖎𝖓𝖐𝖌𝖗𝖔𝖚𝖕
+✇༄ 𝖗𝖊𝖘𝖊𝖙𝖑𝖎𝖓𝖐𝖌𝖈
+✇༄ 𝖕𝖗𝖔𝖒𝖔𝖙𝖊𝖆𝖑𝖑
+✇༄ 𝖉𝖊𝖒𝖔𝖙𝖊𝖆𝖑𝖑
+✇༄ 𝖗𝖊𝖘𝖊𝖙𝖑𝖎𝖓𝖐
+✇༄ 𝖓𝖚𝖙𝖊
+✇༄ 𝖙𝖆𝖌𝖆𝖉𝖒𝖎𝖓𝖘
+☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬
 
 `
 let hiks = {
@@ -1168,7 +1168,7 @@ image: cewegw,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/16800f718dad3ed52d516.jpg`,
-  sourceUrl:`https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH`,
+  sourceUrl:`https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
   }}
   }
 zetsubo.sendMessage(from, hiks, {quoted: zets })}
@@ -1180,20 +1180,20 @@ case 'downloadmenu': {
     🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
     🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏━━━━━━━━━━━━━━━━━
-┃➟ 𝐟𝐛𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐟𝐛𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐢𝐠𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐢𝐠𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐭𝐰𝐢𝐭𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐭𝐢𝐤𝐭𝐨𝐤𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐲𝐭𝐦𝐩3 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐲𝐭𝐦𝐩4 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐲𝐭𝐬𝐞𝐚𝐫𝐜𝐡 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐲𝐭𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
-┃➟ 𝐏𝐥𝐚𝐲 
-┃➟ 𝐭𝐨𝐮𝐫𝐥
-┗━━━━━━━━━━━━━━━━━━
+┏━☏☏☏☏☏☏☏☏☏☏
+✆➟ 𝐟𝐛𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐟𝐛𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐢𝐠𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐢𝐠𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐭𝐰𝐢𝐭𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐭𝐢𝐤𝐭𝐨𝐤𝐯𝐢𝐝𝐞𝐨 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐲𝐭𝐦𝐩3 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐲𝐭𝐦𝐩4 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐲𝐭𝐬𝐞𝐚𝐫𝐜𝐡 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐲𝐭𝐫𝐞𝐞𝐥𝐬 (𝐥𝐢𝐧𝐤)
+✆➟ 𝐏𝐥𝐚𝐲 
+✆➟ 𝐭𝐨𝐮𝐫𝐥
+┗━⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆⌆
 
 `
 let hiks = {
@@ -1218,44 +1218,44 @@ case 'randommenu': {
   🐉 𝐔𝐬𝐞𝐫 : ${pushname}}
   🕷️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏━━━━━━━━━━━━━━━━
-┃➟ 𝒐𝒘𝒏𝒆𝒓
-┃➟ 𝒔𝒕𝒊𝒄𝒌𝒆𝒓
-┃➟ 𝒗𝒗
-┃➟ 𝒘𝒎
-┃➟ 𝒘𝒎𝒗𝒊𝒅𝒆𝒐
-┃➟ 𝒆𝒎𝒐𝒋𝒊𝒎𝒊𝒙
-┃➟ 𝒆𝒎𝒐𝒋𝒊𝒎𝒊𝒙2
-┃➟ 𝒂𝒕𝒕𝒑 (𝒕𝒆𝒙𝒕)
-┃➟ 𝒕𝒕𝒑 (𝒕𝒆𝒙𝒕)
-┃➟ 𝒑𝒊𝒏𝒈
-┃➟ 𝒂𝒍𝒊𝒗𝒆
-┃➟ 𝒓𝒖𝒏𝒕𝒊𝒎𝒆
-┃➟ 𝒕𝒐𝒊𝒎𝒂𝒈𝒆
-┃➟ 𝒕𝒐𝒎𝒑4
-┃➟ 𝒕𝒐𝒎𝒑3
-┃➟ 𝒕𝒐𝒂𝒖𝒅
-┃➟ 𝒕𝒐𝒗𝒏
-┃➟ 𝒕𝒐𝒂𝒖𝒅𝒊𝒐
-┃➟ 𝒕𝒐𝒈𝒊𝒇
-┃➟ 𝒕𝒐𝒖𝒓𝒍
-┃➟ 𝒔𝒎𝒆𝒎𝒆
-┃➟ 𝒈𝒐𝒐𝒈𝒍𝒆
-┃➟ 𝒄𝒐𝒖𝒑𝒍𝒆
-┃➟ 𝒄𝒐𝒇𝒇𝒆
-┃➟ 𝒈𝒆𝒕𝒏𝒂𝒎𝒆
-┃➟ 𝒈𝒆𝒕𝒑𝒊𝒄
-┃➟ 𝒔𝒆𝒕𝒑𝒑𝒃𝒐𝒕
-┃➟ 𝒔𝒆𝒕𝒑𝒑𝒈𝒓𝒐𝒖𝒑
-┃➟ 𝒃𝒍𝒐𝒄𝒌
-┃➟ 𝒖𝒏𝒃𝒍𝒐𝒄𝒌
-┃➟ 𝒔𝒕𝒂𝒍𝒌𝒕𝒊𝒌𝒕𝒐𝒌
-┃➟ 𝒊𝒏𝒇𝒐𝒈𝒆𝒎𝒑𝒂
-┃➟ 𝒍𝒊𝒓𝒊𝒌
-┃➟ 𝒄𝒆𝒓𝒑𝒆𝒏
-┃➟ 𝒒𝒄
-┃➟ 𝒒𝒄𝒔𝒕𝒊𝒄𝒌
-┗━━━━━━━━━━━━━━━━━━
+✇𝚃𝙸𝙶𝙴𝚁-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽✇✇
+✇☛ 𝒐𝒘𝒏𝒆𝒓
+✇☛ 𝒔𝒕𝒊𝒄𝒌𝒆𝒓
+✇☛ 𝒗𝒗
+✇☛ 𝒘𝒎
+✇☛ 𝒘𝒎𝒗𝒊𝒅𝒆𝒐
+✇☛ 𝒆𝒎𝒐𝒋𝒊𝒎𝒊𝒙
+✇☛ 𝒆𝒎𝒐𝒋𝒊𝒎𝒊𝒙2
+✇☛ 𝒂𝒕𝒕𝒑 (𝒕𝒆𝒙𝒕)
+✇☛ 𝒕𝒕𝒑 (𝒕𝒆𝒙𝒕)
+✇☛ 𝒑𝒊𝒏𝒈
+✇☛ 𝒂𝒍𝒊𝒗𝒆
+✇☛ 𝒓𝒖𝒏𝒕𝒊𝒎𝒆
+✇☛ 𝒕𝒐𝒊𝒎𝒂𝒈𝒆
+✇☛ 𝒕𝒐𝒎𝒑4
+✇☛ 𝒕𝒐𝒎𝒑3
+✇☛ 𝒕𝒐𝒂𝒖𝒅
+✇☛ 𝒕𝒐𝒗𝒏
+✇☛ 𝒕𝒐𝒂𝒖𝒅𝒊𝒐
+✇☛ 𝒕𝒐𝒈𝒊𝒇
+✇☛ 𝒕𝒐𝒖𝒓𝒍
+✇☛ 𝒔𝒎𝒆𝒎𝒆
+✇☛ 𝒈𝒐𝒐𝒈𝒍𝒆
+✇☛ 𝒄𝒐𝒖𝒑𝒍𝒆
+✇☛ 𝒄𝒐𝒇𝒇𝒆
+✇☛ 𝒈𝒆𝒕𝒏𝒂𝒎𝒆
+✇☛ 𝒈𝒆𝒕𝒑𝒊𝒄
+✇☛ 𝒔𝒆𝒕𝒑𝒑𝒃𝒐𝒕
+✇☛ 𝒔𝒆𝒕𝒑𝒑𝒈𝒓𝒐𝒖𝒑
+✇☛ 𝒃𝒍𝒐𝒄𝒌
+✇☛ 𝒖𝒏𝒃𝒍𝒐𝒄𝒌
+✇☛ 𝒔𝒕𝒂𝒍𝒌𝒕𝒊𝒌𝒕𝒐𝒌
+✇☛ 𝒊𝒏𝒇𝒐𝒈𝒆𝒎𝒑𝒂
+✇☛ 𝒍𝒊𝒓𝒊𝒌
+✇☛ 𝒄𝒆𝒓𝒑𝒆𝒏
+✇☛ 𝒒𝒄
+✇☛ 𝒒𝒄𝒔𝒕𝒊𝒄𝒌
+┗✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
 
 `
 let hiks = {
@@ -3351,7 +3351,7 @@ case 'sc': case 'script': case 'repo':
 await inireact()
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/16800f718dad3ed52d516.jpg` }, caption: 
-`╭╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ➨ 𝑯𝒊 *${pushname}* \n\n ➨ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑-𝐁𝐔𝐆𝐁𝐎𝐓-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 ☬.\n\n ➨ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ➨ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ➨ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➻ 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍\n\n╰╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╼╯⸼` });
+`╭✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇╼╮\n\n ☛ 𝑯𝒊 *${pushname}* \n\n ☛ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑-𝐁𝐔𝐆𝐁𝐎𝐓-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 ☬.\n\n ☛ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ➨ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ☛𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➽ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ➽ 𝚃𝙸𝙶𝙴𝚁-𝙱𝚄𝙶𝙱𝙾𝚃-𝚁𝙰𝙳𝙸𝙰𝚃𝙸𝙾𝙽 𝙸𝚂 𝚂𝙰𝙵𝙴 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 𝙸𝙽 𝙰𝙻𝙻 𝙿𝙻𝙰𝚃𝙵𝙾𝚁𝙼𝚂.\n\n ☛ 𝑴𝒂𝒅𝒆 𝑩𝒚 ➽ 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍\n\n╰✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇╯⸼` });
 
    break;
 //=================================================
@@ -3382,9 +3382,9 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐓𝐈𝐆𝐄𝐑 𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
-                                thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
+                                thumbnailUrl: 'https://telegra.ph/file/16800f718dad3ed52d516.jpg',
                                 sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
                                 mediaType: 1,
                                 renderLargerThumbnail: true
