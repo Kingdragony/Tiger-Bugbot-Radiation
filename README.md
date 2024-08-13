@@ -48,9 +48,9 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 ## `Generate Pair Code For Session`
 
-[`Tiger-bugbot-radiation Pairing Using Render`](https://tiger-codes-d59ba2d41563.herokuapp.com/pair)
+[`Tiger-bugbot-radiation Pairing Using Render`](https://dra-sess-1c7796078cc5.herokuapp.com/pair)
 
-[`Tiger-bugbot-radiation qr`](https://tiger-codes-d59ba2d41563.herokuapp.com/qr)
+[`Tiger-bugbot-radiation qr`](https://dra-sess-1c7796078cc5.herokuapp.com/pair)
 
 [`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
 
