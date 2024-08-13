@@ -2988,7 +2988,7 @@ case 'runtime':
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'zetszet/images (6).jpeg',
+                            thumbnailUrl: 'zetszet/cheemspic.jpg',
                             sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
                             mediaType: 1,
                             renderLargerThumbnail: true
