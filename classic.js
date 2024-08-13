@@ -252,7 +252,7 @@ const salam2 = moment(Date.now()).tz("Africa/Nairobi").locale("id").format("a")
 //=================================================//}
 const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? {remoteJid :"status@broadcast" }: {})},
  message:{"orderMessage":{"orderId":"174238614569438",
- "thumbnail":uwp446167.webp, //image 0kb
+ "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
  "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
