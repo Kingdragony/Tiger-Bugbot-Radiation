@@ -1,6 +1,6 @@
  
 
-<h1 align="center">☬Tiger-Bugbot-Radiation☬<br></h1>
+<h1 align="center">☬𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓☬<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
@@ -48,9 +48,9 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 ## `Generate Pair Code For Session`
 
-[`Tiger-bugbot-radiation Pairing Using Render`](https://badboi.onrender.com/pair)
+[`Tiger-bugbot-radiation Pairing Using Render`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
 
-[`Tiger-bugbot-radiation qr`](https://dra-sess-1c7796078cc5.herokuapp.com/pair)
+[`Tiger-bugbot-radiation qr`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
 
 [`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
 
