@@ -208,12 +208,12 @@ const groupMetadata = m.isGroup ? await zetsubo.groupMetadata(from).catch(e => {
 const groupName = m.isGroup ? groupMetadata.subject : ''
 const participants = m.isGroup ? await groupMetadata.participants : ''
 const groupAdmins = m.isGroup ? await getGroupAdmins(participants) : ''
-const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
-const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
+const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : true
+const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : true
 const welcm = m.isGroup ? wlcm.includes(from) : false
 const welcmm = m.isGroup ? wlcmm.includes(from) : false
-const AntiLink = m.isGroup ? ntilink.includes(from) : false 
-const autodelete = from && isCmd ? antidel.includes(from) : false 
+const AntiLink = m.isGroup ? antilink.includes(from) : true 
+const autodelete = from && isCmd ? antidel.includes(from) : true 
 const isBan = banned.includes(m.sender)
 const isUser = pengguna.includes(m.sender)
 const content = JSON.stringify(m.message)
@@ -297,7 +297,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `༐༑⿻𝐒⸙𝐀࿈𝐌.𝐕𖤓𝐕𝐢𝐒𝐢𝐎𝐍⿻༔༐༑ - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/565f8fc3e0cffb4a7ffd4.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `༺𝑻𝑰𝑮𝑬𝑹▰▱𝑹𝑨𝑫𝑰𝑨𝑻𝑰𝑶𝑵༻ - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/1335d3dde45b461134016.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
@@ -958,8 +958,8 @@ m.reply("Case not found")
 break
 		
 //=================================================//
-case 'onekill': {
-if (!isCreator) return reply("Only Classic-v3-BUG owner can use this command")
+case 'tigerhunt': {
+if (!isCreator) return reply("Only Tiger-radiation-bugbot owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
@@ -1008,7 +1008,7 @@ let messg = `
    ☬ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: ARLODRAGON 
    ☬ 𝐔𝐬𝐞𝐫 : @${m.sender.split('@')[0]}
  
-✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
+▱▰▱▰▱▰▱▰▱▰▱▰▱▰
     ☬ 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : 𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃.
     ☬ 𝐏𝐫𝐞𝐟𝐢𝐱 : 𝐌𝐮𝐥𝐭𝐢-𝐏𝐫𝐞𝐟𝐢𝐱.
     ☬ 𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
@@ -1027,7 +1027,7 @@ let messg = `
      ✇𝐂𝐫𝐞𝐝𝐢𝐭𝐬
      ✇𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
 ✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇     
-☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬☬
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ✐𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 `
 
 global.logo = "https://telegra.ph/file/16800f718dad3ed52d516.jpg"
@@ -1063,19 +1063,19 @@ case 'bugmenu': {
                             
   
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
-  🐲 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
+  ⚠️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏━━━━━━━━━━━━━━━━━━
-┃☬ 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐫𝐚𝐩𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐏𝐨𝐥𝐢𝐜𝐞-𝐂𝐚𝐬𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐜𝐥-𝐤𝐢𝐥𝐥(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐜-𝐤𝐢𝐥𝐥 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐛𝐮𝐫𝐠𝐚𝐢𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
-┃☬ 𝐞𝐯𝐢𝐥-𝐬𝐚
-┃☬ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
-┃☬ onekill (254xxxxx)
-┗━━━━━━━━━━━━━━━━━━
+┏▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+◊☬ 𝐄𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃☬ 𝐑.𝐈.𝐏 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+◆☬ 𝐖𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃☬ 𝐅𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+◊☬ 𝐎𝐮𝐭-𝐨𝐟-𝐥𝐨𝐯𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+┃☬ 𝐁𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
+◆☬ 𝐃𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
+┃☬ 𝐄𝐯𝐢𝐥𝐥𝐢𝐬𝐭
+◊✇ 𝐓𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
+┗▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 
 ☬𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 
  
@@ -1332,7 +1332,7 @@ break
 case 'textmaker': {
 
                             ewe = `┏━━━❰ *TIGER-BUGBOT-RADIATION* ❱━━━━━━ 
-┃  ✇𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+┃  ✇𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐁𝐘 𝐃𝐑𝐀𝐆𝐎𝐍 ❵
 ┃  ✇ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ✇𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -2040,7 +2040,7 @@ case 'public': {
 await inireact()
 if (!isCreator) return reply('*Premium Command*') 
 zetsubo.public = true
-zetsreply('Sukse Change To Public')
+zetsreply('Bot is now in Public mode')
 }
 break
 //=================================================//
@@ -2048,7 +2048,7 @@ case 'self': {
 await inireact()
 if (!isCreator) return reply('*Premium Command*') 
 zetsubo.public = false
-zetsreply('Sukses Change To Self')
+zetsreply('Bot is now private mode')
 }
 break
 //=================================================//
@@ -2141,11 +2141,11 @@ await inireact()
 }
 break
 //=================================================//
-case 'classic-rape':
-case 'police-case':
-case 'gay':
-case 'evil-sam':
-case 'call1': {
+case 'evil-tiger':
+case 'r.i.p':
+case 'wa-crash':
+case 'fallen-radiation':
+case 'out-of-love': {
 inireact()
 if (!isCreator) return reply(mess.premium)
 if (!text) return reply(`Example: ${prefix + command} 25472823838,1`);
@@ -2159,9 +2159,9 @@ reply(mess.bugrespon + `\n❗Detail > \n😎 Target Number: ${sendto} \nBug Comm
 }
 break
 //========================°°°°°//
-case 'cl-kill': 
-case 'c-crash': 
-case 'burgain': {
+case 'bigdick': 
+case 'dragonlead': 
+case 'evillist': {
 inireact()
 if (!isCreator) return reply(mess.premium)
 if (!text) return xgreply(`Example: ${prefix + command} 6282823838,1`);
@@ -2171,7 +2171,7 @@ hmbug(sendto, jumlah,  `I even Dont know 💀 `)
 await sleep(1000)
 await ryobug(sendto, jumlah,  `💔'҉Why You messed with❤️‍🩹`)
 await sleep(1000)
-await ryobug(sendto, jumlah,  `Classic Bot 🫂`)
+await ryobug(sendto, jumlah,  `Radiontion tiger 🫂`)
 await sleep(1000)
 hmbug(sendto, jumlah,  `Go to hell 😕 `)
 await sleep(1000)
@@ -2195,7 +2195,7 @@ reply(mess.bugrespon + `\n❗Detail > \n🎯 Target Number : ${sendto} \n😎Bug
 }
 break
 
-case 'buglist': {
+case 'evillist': {
 await inireact()
 for (let i = 0; i < 10; i++) {
  let sections = [{
@@ -2216,9 +2216,9 @@ for (let i = 0; i < 10; i++) {
 }];
 
 let listMessage = {
-    text: `💣𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 💀`,
+    text: `💣Dragon hunter 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `Classic - V3`,
+    buttonText: `𝚃𝚒𝚐𝚎𝚛-𝚁𝚊𝚍𝚒𝚊𝚝𝚒𝚘𝚗`,
     sections
 };
 
@@ -2543,7 +2543,7 @@ message: {
 }), { userJid: m.chat, quoted: force })
 await zetsubo.relayMessage(m.chat, etc.message, { messageId: etc.key.id })
 }
-await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Classic 📡')
+await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Tiger 📡')
 }
 break
 //=================================================
@@ -2573,7 +2573,7 @@ jpegThumbnail: ``,
 title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
 body: `⁗ TIGER-BUGBOT-RADIATION `,
 previewType: "VIDEO",
-sourceUrl: `Classic 𝕾𝖚𝖈𝖐𝖘`,
+sourceUrl: `Tiger 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
 mediaUrl: `${global.url}`
 }
