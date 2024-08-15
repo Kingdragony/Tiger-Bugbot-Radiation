@@ -208,12 +208,12 @@ const groupMetadata = m.isGroup ? await zetsubo.groupMetadata(from).catch(e => {
 const groupName = m.isGroup ? groupMetadata.subject : ''
 const participants = m.isGroup ? await groupMetadata.participants : ''
 const groupAdmins = m.isGroup ? await getGroupAdmins(participants) : ''
-const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : true
-const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : true
+const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
+const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
 const welcm = m.isGroup ? wlcm.includes(from) : false
 const welcmm = m.isGroup ? wlcmm.includes(from) : false
 const AntiLink = m.isGroup ? ntilink.includes(from) : false 
-const autodelete = from && isCmd ? antidel.includes(from) : true 
+const autodelete = from && isCmd ? antidel.includes(from) : false
 const isBan = banned.includes(m.sender)
 const isUser = pengguna.includes(m.sender)
 const content = JSON.stringify(m.message)
