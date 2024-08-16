@@ -2048,7 +2048,7 @@ case 'self': {
 await inireact()
 if (!isCreator) return reply('*Premium Command*') 
 zetsubo.public = false
-zetsreply('Bot is now private mode')
+zetsreply('Bot is now private')
 }
 break
 //=================================================//
