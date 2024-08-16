@@ -155,7 +155,7 @@ const rimuwu = fs.readFileSync(`./kawai/rimuwu.jpg`)
 const sangean = fs.readFileSync(`./kawai/1723827340548.jpg`)
 const sikanna = fs.readFileSync(`./kawai/sikanna.jpg`)
 const notprem = fs.readFileSync(`./kawai/notprem.webp`)
-const kosongjpg = fs.readFileSync ('./zetszet/image/kosong.jpg')
+const kosongjpg = fs.readFileSync ('./zetszet/1723827340548.jpg')
 const pengguna = JSON.parse(fs.readFileSync('./database/user.json'))
 const owner = JSON.parse(fs.readFileSync('./premium.json'))
 const vnnye = JSON.parse(fs.readFileSync('./database/vnadd.json'))
@@ -166,7 +166,7 @@ const ntilink = JSON.parse(fs.readFileSync("./lib/antilink.json"))
 const antidel = JSON.parse(fs.readFileSync("./lib/antidel.json"))
 const banned = JSON.parse(fs.readFileSync('./zetszet/dbnye/banned.json'))
 
-virgam = fs.readFileSync(`./zetszet/image/deden.jpeg`)
+virgam = fs.readFileSync(`./zetszet/1723827340548.jpg`)
 //=================================================//
 module.exports = zetsubo = async (zetsubo, m, chatUpdate, store) => {
  try {
