@@ -21,7 +21,7 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 <a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://github.com/Kingdragony/Tiger-Bugbot-Radiation"></a>
 <a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FTIGER RADIATION &count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
