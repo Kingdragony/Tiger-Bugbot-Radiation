@@ -143,7 +143,7 @@ let tebaktebakan = db.data.game.tebakan = []
 
 const yts = require('./scrape/yt-search')
 const { ytSearch } = require('./scrape/yt')
-const thumbnail = fs.readFileSync ('./kawai/imvillain.jpg')
+const thumbnail = fs.readFileSync ('./kawai/uwp4461672 (1).webp')
 const cewegw = fs.readFileSync(`./kawai/images (5).jpeg`)
 const egirl = fs.readFileSync(`./kawai/egirl.jpg`)
 const egao = fs.readFileSync(`./kawai/egao.jpg`)
