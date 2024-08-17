@@ -1032,7 +1032,7 @@ let messg = `
 
 global.logo = "https://telegra.ph/file/16800f718dad3ed52d516.jpg"
 global.vidmenu = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4"
-if(menutype === "v1") {
+if(menutype === "v2") {
         let buttonMessage = {
         image: { url: global.logo },
         caption: messg
