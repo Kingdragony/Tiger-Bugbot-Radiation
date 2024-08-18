@@ -2144,9 +2144,9 @@ if (!isCreator) return reply(mess.premium)
 if (!text) return reply(`Example: ${prefix + command} 25472823838,1`);
 sendto = q.split(",")[0]+"@s.whatsapp.net"
 jumlah = q.split(",")[1]
-hmbug(sendto, `TIGER-RADIATION 🤧💀 ...~${ios1}`)
+hmbug(sendto, `CLASSIC BOT 🤧💀 ...~${ios1}`)
 await sleep(5000)
-hmbug(sendto, `TIGER RADIATION 💀${ios1}`)
+hmbug(sendto, `CLASSIC BOT 💀${ios1}`)
 await sleep(5000)
 reply(mess.bugrespon + `\n❗Detail > \n😎 Target Number: ${sendto} \nBug Command: ${command}\n😋 Quantity: ${jumlah}`)
 }
@@ -2164,7 +2164,7 @@ hmbug(sendto, jumlah,  `I even Dont know 💀 `)
 await sleep(1000)
 await ryobug(sendto, jumlah,  `💔'҉Why You messed with❤️‍🩹`)
 await sleep(1000)
-await ryobug(sendto, jumlah,  `Radiontion tiger 🫂`)
+await ryobug(sendto, jumlah,  `Classic bot 🫂`)
 await sleep(1000)
 hmbug(sendto, jumlah,  `Go to hell 😕 `)
 await sleep(1000)
@@ -2211,7 +2211,7 @@ for (let i = 0; i < 10; i++) {
 let listMessage = {
     text: `💣Dragon hunter 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `𝚃𝚒𝚐𝚎𝚛-𝚁𝚊𝚍𝚒𝚊𝚝𝚒𝚘𝚗`,
+    buttonText: `Classic - v3`,
     sections
 };
 
