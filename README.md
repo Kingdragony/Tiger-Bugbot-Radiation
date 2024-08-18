@@ -49,7 +49,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Classic-v3-BUG
+* Locate Tiger-Bugs
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
