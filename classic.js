@@ -464,7 +464,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑``
+title: `🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑`
 }
 }
 }
