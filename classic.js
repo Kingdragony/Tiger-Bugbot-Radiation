@@ -404,7 +404,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★TIGER-BUGBOT-RADIATION★ `
+` ★ TIGER-BUGBOT-RADIATION ★ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉TIGER-RADIATION⧉⸙⫺.....'})//Pengalih isu
 
@@ -464,7 +464,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `🖤⟩ ༘྅TIGER-RADIATION-BUGS`
+title: `🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑``
 }
 }
 }
@@ -500,7 +500,7 @@ var etc = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 viewOnceMessage: {
 message: {
   "liveLocationMessage": {
-    "degreesLatitude": "🖤⟩ ༘྅TIGER-RADIATION-BUGS",
+    "degreesLatitude": "🖤⟩ ⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑",
     "degreesLongitude": "🖤⟩ ༘྅Lets Dance☆ ꧏ🤍҈ ༑",
     "caption": `🖤⟩ ༘྅Booom 🕷️ ☆ ꧏ🤍҈ ༑`,
     "sequenceNumber": "9",
@@ -2209,7 +2209,7 @@ for (let i = 0; i < 10; i++) {
 }];
 
 let listMessage = {
-    text: `💣Dragon hunter 💀`,
+    text: `💣𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
     buttonText: `Classic - v3`,
     sections
@@ -2536,7 +2536,7 @@ message: {
 }), { userJid: m.chat, quoted: force })
 await zetsubo.relayMessage(m.chat, etc.message, { messageId: etc.key.id })
 }
-await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Tiger 📡')
+await reply('💊𝗧𝗮𝗿𝗴𝗲𝘁 𝗘𝗹𝗶𝗺𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 Classic 📡')
 }
 break
 //=================================================
@@ -2564,14 +2564,14 @@ showAdAttribution: false,
 renderLargerThumbnail: false,
 jpegThumbnail: ``,
 title: `𝕾𝖔𝖗𝖗𝖞 𝕭𝖗𝖔 𝕴 𝖌𝖔𝖙 𝕹𝖔 𝖒𝖊𝖗𝖈𝖞 𝖔𝖓 𝖞𝖔𝖚 🥵🙃`,
-body: `⁗ TIGER-BUGBOT-RADIATION `,
+body: `⁗ Classic 𝕰𝖑𝖎𝖒𝖎𝖓𝖆𝖙𝖊𝖘 📡`,
 previewType: "VIDEO",
-sourceUrl: `Tiger 𝕾𝖚𝖈𝖐𝖘`,
+sourceUrl: `Classic 𝕾𝖚𝖈𝖐𝖘`,
 mediaType: 1,
 mediaUrl: `${global.url}`
 }
 },
-text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 ARLODRAGON  🩸'
+text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝗔𝗿𝗹𝗼𝗱𝗿𝗮𝗴𝗼𝗻  🩸'
 }, {
 quoted: m
 })
