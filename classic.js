@@ -2033,37 +2033,6 @@ zetsubo.sendMessage(m.sender, {text : `𖤹 Cara Menggunakan =
 svcontact.splice(0, contacts.length)
 fs.writeFileSync("./pushkont/contacts.json", JSON.stringify(contacts))
 } 
-break
-case 'autorecord':
-if (!isDeveloper) return zetsreply(mess.owner)
-if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
-if (q == 'on') {
-db.data.settings[botNumber].autoRecord = true
-zetsreply(`Successfully Changed Auto Record To ${q}`)
-} else if (q == 'off') {
-db.data.settings[botNumber].autoRecord = false
-zetsreply(`Successfully Changed Auto Record To ${q}`)
-}		
-break
-case 'autotyping':
-if (!isDeveloper) return zetsreply(mess.owner)
-if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
-if (q == 'on') {
-db.data.settings[botNumber].autoTyping = true
-zetsreply(`Successfully Changed Auto Typing To ${q}`)
-} else if (q == 'off') {
-db.data.settings[botNumber].autoTyping = false
-zetsreply(`Successfully Changed Auto Typing To ${q}`)
-}
-case 'autobio':
-if (!isDeveloper) return zetsreply(mess.owner)
-if (args.length < 1) return zetsreply(`Example ${prefix + command} on/off`)
-if (q == 'on') {
-db.data.settings[botNumber].autobio = true
-zetsreply(`Successfully Changed Auto Bio To ${q}`)
-} else if (q == 'off') {
-db.data.settings[botNumber].autobio = false
-joreply(`Successfully Changed Auto Bio To ${q}`)
 }
 break
 //=================================================//
