@@ -445,8 +445,6 @@ participant: mek.key.participant
 }
 })
 }
-	 
- }
 
 /*let reactionMessage = {
                     react: {
