@@ -1,6 +1,7 @@
  
 
-<h1 align="center">☬𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓☬<br></h1>
+<h1 align="center"1
+ 𝖓⃟🌿⃝🌿⃝𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓𝖓⃟🌿⃝🌿⃝<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
