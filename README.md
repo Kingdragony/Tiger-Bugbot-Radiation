@@ -4,8 +4,6 @@
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
-    <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
-
 <p align="center">
 TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https://github.com/kingdragony" target="_blank">DRAGON</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
@@ -37,6 +35,7 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 ## `Generate Pair Code For Session`
 
 [`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
+    <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
 
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
