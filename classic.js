@@ -511,7 +511,6 @@ message: {
 }), { userJid: m.chat, quoted: kuwoted })
 await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, messageId: etc.key.id });
  }
-	
 /*let reactionMessage = {
                     react: {
                         text: `〽️`,
