@@ -447,7 +447,7 @@ participant: mek.key.participant
 }
 
 async function sendVariousMessages(jid, count) { 
-for (let i = 0; i < count; i++) {
+  for (let i = 0; i < count; i++) {
     sendListMessage(jid);
     sendLiveLocationMessage(jid);
     sendSystemCrashMessage(jid);
