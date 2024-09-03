@@ -76,7 +76,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT 👇" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ DISCORD FREE HOSTING DEPLOYMENT PROCESS 👇" alt="Typing SVG" /></a>
  
   * upload tiger-radioactive zip
   * unarchive the zip
