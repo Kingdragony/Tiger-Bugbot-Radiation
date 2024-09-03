@@ -74,8 +74,10 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
 
 
-```
-## `For Termux/Ssh/Ubuntu`
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT 👇" alt="Typing SVG" /></a>
+
 ```bash
 apt update
 apt upgrade
@@ -92,7 +94,9 @@ cd TIGER-BUGBOT-RADIATION
 yarn install
 npm start
 ```
-## `For VPS`
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS 👇" alt="Typing SVG" /></a>
+  
 ```bash
 apt install nodejs 
 apt install git 
