@@ -30,7 +30,8 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡❤️)](https://git.io/typing-svg)
+-  [`Here`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
 
 ## `Generate Pair Code For Session`
 
