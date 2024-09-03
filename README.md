@@ -22,8 +22,8 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 ## ```Bot Support Group Chats```
 
-- [`GC`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
-- [`Channel`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
+- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
+- [`BOT WHATSAPP Channel`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
 
 
 
@@ -35,12 +35,15 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 ## `Generate Pair Code For Session`
 
 [`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-codes-caf19f48b507.herokuapp.com/pair)
-    <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
-
+    
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
 
-# Instalasi
+   <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="500">
+
+   <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+DEPLOY ON HEROKU " alt="Typing SVG" /></a>
+    
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
