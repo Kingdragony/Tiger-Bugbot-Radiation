@@ -77,14 +77,14 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ DISCORD BOT HOSTING 👇" alt="Typing SVG" /></a>
- ```bash
-  .upload tiger-radioactive zip
-  . unarchive the zip
-  . delete the zip 
-  .move the files to ../
-  .link tiger using pairing code and replace the credsjson in Tigersession
-.Go to console and start 
-.wait for 5mins and your bot starts running 
+ ```
+  * upload tiger-radioactive zip
+  * unarchive the zip
+  * delete the zip 
+  * move the files to ../
+  * link tiger using pairing code and replace the credsjson in Tigersession
+* Go to console and start 
+* wait for 5mins and your bot starts running 
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT 👇" alt="Typing SVG" /></a>
