@@ -46,10 +46,17 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+
+https://github.com/jonathanong/heroku-buildpack-
+ffmpeg-latest
+
+
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+
+
 ```
-*Add your Creds.json to Classic file
+*Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
