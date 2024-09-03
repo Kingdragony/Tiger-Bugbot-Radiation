@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=TIGER+RADIOACTIVE+BUGBOT+FORK+STAR+MY+REPO+⚡⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=TIGER+RADIOACTIVE+BUGBOT+FORK+STAR+MY+REPO+⚡⚡)](https://git.io/typing-svg)
 </h1>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
