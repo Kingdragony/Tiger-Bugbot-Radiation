@@ -1,7 +1,7 @@
- 
+ ❤️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=red&lines=TIGER+RADIOACTIVE+BUGBOT+FORK+STAR+MY+REPO+⚡⚡)](https://git.io/typing-svg)
-</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+☠️☠️⚡𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡☠️☠️;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
