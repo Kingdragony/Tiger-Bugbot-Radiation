@@ -41,9 +41,10 @@ CONTACT BOT DEVELOPER
 
    
 <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="1000">
- href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡; DEPLOYMENT ON HEROKU " alt="Typing SVG" /></a>
+ 
     
-## Heroku Buildpack
+    
+  ## Heroku Buildpack
 ```bash
 heroku/nodejs
 ```
