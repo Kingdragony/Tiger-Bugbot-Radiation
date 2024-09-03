@@ -15,10 +15,8 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=❖+❖+❖+❖+❖+❖)](https://git.io/typing-svg)
 
-## ```Connect With Me```
-<p align="center">
- <a href="https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH" /><br>
-
+- <a aria-label="Join our chats" href="https://wa.me/254702713600?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ```Bot Support Group Chats```
 
