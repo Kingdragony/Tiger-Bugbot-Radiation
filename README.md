@@ -104,7 +104,8 @@ git clone https://github.com/Kingdragony/Tiger-Bugbot-Radiation
 cd TIGER-BUGBOT-RADIATION 
 npm start
 ```
-## `For 24/7 Activation (Termux)`
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ACTIVATION 👇👇 " alt="Typing SVG" /></a>
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
