@@ -1,6 +1,7 @@
  
 
-<h1 align="center">🌿⃝🌿⃝𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐁𝐎𝐓🌿⃝</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=TIGER+RADIOACTIVE+BUGBOT+FORK+AND+STAR)](https://git.io/typing-svg)
+</h1>
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
