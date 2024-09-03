@@ -56,7 +56,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
 *Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
-* Create a new app at [Heroku](heroku.com)
+* Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
 * Add Build packs
 * Connect your heroku with your github
 * Locate Tiger-Bugs
