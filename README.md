@@ -55,7 +55,6 @@ ffmpeg-latest
 ```bash
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
-
 ```
 *Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
 * Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
