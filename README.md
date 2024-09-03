@@ -13,7 +13,7 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙶𝙴𝚁+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫)](https://git.io/typing-svg)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=❖+❖+❖+❖+❖+❖)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+XBUGBOT+CRASH)](https://git.io/typing-svg)
 
 CONTACT BOT DEVELOPER 
 - <a aria-label="Join our chats" href="https://wa.me/254702713600?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
@@ -41,6 +41,7 @@ CONTACT BOT DEVELOPER
 
    
 <img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="1000">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝐓𝐈𝐆𝐄𝐑+𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄+𝐁𝐔𝐆𝐁𝐎𝐓⚡; DEPLOYMENT ON HEROKU " alt="Typing SVG" /></a>
     
 ## Heroku Buildpack
 ```bash
