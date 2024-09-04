@@ -27,7 +27,7 @@ CONTACT BOT DEVELOPER
 
 
 
-# Setup For Deployment 👇
+# Setup For Deployment ☊
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
   [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
@@ -89,7 +89,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * wait for 5mins and your bot starts running 
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT 👇" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ✎" alt="Typing SVG" /></a>
 
 ```bash
 apt update
@@ -108,7 +108,7 @@ yarn install
 npm start
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS 👇" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS ✎" alt="Typing SVG" /></a>
   
 ```bash
 apt install nodejs 
@@ -122,7 +122,7 @@ cd TIGER-BUGBOT-RADIATION
 npm start
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ACTIVATION 👇👇 " alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+TERMUX ACTIVATION ⟱ " alt="Typing SVG" /></a>
   
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
