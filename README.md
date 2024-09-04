@@ -89,7 +89,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * wait for 5mins and your bot starts running 
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ✎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ⟱" alt="Typing SVG" /></a>
 
 ```bash
 apt update
@@ -108,7 +108,7 @@ yarn install
 npm start
 ```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS ✎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+FOR VPS ⟱" alt="Typing SVG" /></a>
   
 ```bash
 apt install nodejs 
@@ -129,4 +129,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+THANKS FOR YOUR SUPPORT " alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝔭𝔬𝔴𝔢𝔯𝔡 𝔟𝔶 ᴀ𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫" alt="Typing SVG" /></a>
