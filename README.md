@@ -50,8 +50,7 @@ CONTACT BOT DEVELOPER
 heroku/nodejs
 ```
 ```bash
-https://github.com/jonathanong/heroku-buildpack-
-ffmpeg-latest
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
  ````
 ```bash
