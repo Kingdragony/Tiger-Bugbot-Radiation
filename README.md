@@ -3,10 +3,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 </p>
-<p align="center">
-TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https://github.com/kingdragony" target="_blank">DRAGON</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
+![TIGER STATUS](https://github-readme-stats.vercel.app/api/pin/?username=Kingdragony&repo=tiger-Bugbot-radiation&show_owner=true&theme=dark)
 
 ------
 
