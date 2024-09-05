@@ -8,7 +8,6 @@ TIGER-BUGBOT-RADIATION Multi Device is a whatsapp bot created by <a href="https:
 </p>
 
 
-
 ------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙶𝙴𝚁+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫)](https://git.io/typing-svg)
