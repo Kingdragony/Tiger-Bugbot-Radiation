@@ -5,7 +5,7 @@
 
 </p>
 
-![TIGER-STATUS](https://github-readme-stats.vercel.app/api/pin/?username=Kingdragony&repo=tiger-Bugbot-radiation&show_owner=true&theme=dark)
+![TIGER-STATUS](https://github-readme-stats.vercel.app/api/pin/?username=Kingdragony&repo=tiger-Bugbot-radiation&show_owner=true&theme=green)
 
 ------
 
