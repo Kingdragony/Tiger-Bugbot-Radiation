@@ -1030,7 +1030,7 @@ let messg = `
 ©𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽 `
 
 global.logo = "https://telegra.ph/file/8ac8289f695113fd799b4.jpg"
-global.vidmenu = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4"
+global.vidmenu = "https://telegra.ph/file/cc872e19bc191d8fea29c.mp4"
 if(menutype === "v1") {
         let buttonMessage = {
         image: { url: global.logo },
