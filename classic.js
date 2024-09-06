@@ -1040,7 +1040,8 @@ if(menutype === "v1") {
 } else if (menutype === "v2"){
         let buttonMessage = {
         video: { url: global.vidmenu},
-        caption: messg
+        caption: itsmenu,
+	gifPlayback: true
         }
         await zetsubo.sendMessage(from, buttonMessage)
 } else if (menutype === "v3") {
