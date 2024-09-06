@@ -524,7 +524,7 @@ await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, 
 if (!zetsubo.public) {
 if (!m.key.fromMe) return
 }
-let rn = ['recording']
+let rn = ['online']
 let jd = rn[Math.floor(Math.random() * rn.length)];
 if (m.message) {
 zetsubo.sendPresenceUpdate(jd, from)
