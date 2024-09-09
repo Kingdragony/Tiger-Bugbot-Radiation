@@ -302,7 +302,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
         title : `𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓`,
-        body : `⧉A͜͡R͜͡L͜͡O͜͡D͜͡R͜͡A͜͡G͜͡O͜͡N͜͡⧉`,
+        body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
@@ -313,7 +313,7 @@ const zetsreply = async (teks) => {
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
         title : `༒𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓༒`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
+        body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
@@ -324,7 +324,7 @@ const virgamreply = async (teks) => {
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
         title : `༒𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓༒`,
-        body : `⧉A͜͡R͜͡L͜͡O͜͡D͜͡R͜͡A͜͡G͜͡O͜͡N͜͡⧉`,
+        body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
@@ -959,7 +959,7 @@ break
 		
 //=================================================//
 case 'tigerhunt': {
-if (!isCreator) return reply("Only 𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 owner can use this command")
+if (!isCreator) return reply("Only 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1 owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
@@ -1002,7 +1002,7 @@ break
 case 'menu': case 'help': {
 let messg = `
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃    \`𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓\`
+┃    \`𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1\`
 ┃━━━━━━━━━━━━━━━━━━━━❖
 ┃   🔹 𝐒𝐜 𝐏𝐮𝐛𝐥𝐢𝐜 ❴ 𝙱𝚈 𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓 ❵
 ┃   ⚜️ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫: 𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓
@@ -1027,7 +1027,7 @@ let messg = `
 ┃    ❖𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 ┃    ❖𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
 ┗━━━━━━━━━━━━━━━━━━━━━𓅓
-©𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽 `
+©𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴 `
 
 global.logo = "https://telegra.ph/file/8ac8289f695113fd799b4.jpg"
 global.vidmenu = "https://telegra.ph/file/cc872e19bc191d8fea29c.mp4"
@@ -1084,8 +1084,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ⧉⸙⫺   - 𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1   - 𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴',
+  body: '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1112,7 +1112,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓',
-  body: '⫹⧉𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  body: '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
