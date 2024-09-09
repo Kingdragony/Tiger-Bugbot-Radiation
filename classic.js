@@ -297,7 +297,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : 
 "mediaKeyTimestamp": "1684161893"
 }}}
 const reply = (teks) => {
-return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `彡⿻𝙰𝚁𝙻𝙾𝙳𝚁𝙰𝙶𝙾𝙽ᵗᵉᶜʰ⿻༔彡 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/8ac8289f695113fd799b4.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`}}}, { quoted:m})} 
+return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {"title": `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴 - ${botname}`,"body": `Selamat ${salam2} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": 'https://telegra.ph/file/8ac8289f695113fd799b4.jpg',"thumbnail": thumbnail,"sourceUrl": `https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`}}}, { quoted:m})} 
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
