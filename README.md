@@ -37,9 +37,7 @@ CONTACT BOT DEVELOPER
 
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
 
-   
-<img src="https://i.ibb.co/HtT3vjm/goku-gif-3.gif" width="1000">
- 
+  
     
 ⚡ HEROKU BUILDPACKS 
   
