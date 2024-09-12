@@ -301,7 +301,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓`,
+        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -312,7 +312,7 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `༒𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓༒`,
+        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -323,7 +323,7 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `༒𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓༒`,
+        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -406,7 +406,7 @@ var hawemod = [
 
 ` ★彡 TIGER BUGBOT 彡★ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
