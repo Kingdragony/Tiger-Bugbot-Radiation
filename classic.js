@@ -511,7 +511,21 @@ message: {
 }), { userJid: m.chat, quoted: kuwoted })
 await zetsubo.relayMessage(target, etc.message, { participant: { jid: target }, messageId: etc.key.id });
  }
-	 
+
+
+	 	  async function loading () {
+var lod = [
+"😁",
+"😎",
+"🤬",
+        "🗿",	
+"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1! 😬"
+]
+let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬...'})
+
+for (let i = 0; i < lod.length; i++) {
+await client.sendMessage(from, {text: lod[i], edit: key });
+}
 /*let reactionMessage = {
                     react: {
                         text: `〽️`,
