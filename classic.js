@@ -3330,7 +3330,7 @@ await inireact()
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
 MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
+title: `THEE DRAGON`,
 sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
 }
 }})
@@ -3451,7 +3451,7 @@ for (let i = 0; i < xeonresources.length; i++) {
 zetsubo.sendMessage(m.chat, { sticker: { url: xeonresources[i].url }})
 }
 }
-} else reply(`Where is the telegram sticker link?\nExample. ${prefix + command} https://t.me/addstickers/FriendlyDeath`)
+} else reply(`Where is the telegram sticker link?\nExample. ${prefix + command} https://t.me/addstickers/Sixthboss`)
 }
 break
 //=================================================
@@ -4148,7 +4148,7 @@ break
 case 'restart':  
 await inireact()
   if (!isCreator) throw `Owner Only` 
-  reply(`*Restarting Classic* .`)  
+  reply(`*𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 Restarting* .`)  
   await sleep(3000)  
   process.exit()  
   break;
