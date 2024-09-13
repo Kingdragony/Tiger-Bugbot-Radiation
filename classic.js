@@ -1089,7 +1089,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/8ac8289f695113fd799b4.jpg`,
+  MediaUrl:`https://i.imgur.com/tUqZbZd.jpeg`,
   sourceUrl:`https://www.instagram.com/arlodragon?igsh=YzljYTk1ODg3Zg==`,
   }}
   }
