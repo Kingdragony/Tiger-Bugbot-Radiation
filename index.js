@@ -7,7 +7,7 @@
 //   • [ Recode Bye > ZetsuboXygen777]
 /*   # AND↓
    THANKS TO >
-  XygenGod777( Watashi / 私 )
+  ARLODRAGON( Watashi / 私 )
   Hw Mods Wa / Haikal (Base)
   Adiwajshing (Baileys)
   whiskeysockets (Baileys)
