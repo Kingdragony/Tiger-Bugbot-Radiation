@@ -14,7 +14,7 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
   Pak Tzy (Inspirate)
   Maintainer (Taira Makino)
   Maintener2(Samue-l1)
-  Maintener3(Emperordagoat)
+  Maintener3(Arlodragon)
   ♥️ ありがとう
                  >
 */
