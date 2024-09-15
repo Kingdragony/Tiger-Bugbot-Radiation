@@ -11,3 +11,4 @@ RUN npm install && npm install qrcode-terminal
 COPY . .
 EXPOSE 3000
 CMD ["node", "index.js"]
+
