@@ -3397,7 +3397,7 @@ case 'broadcast':
 //=================================================
 case "alive":
 await inireact()
-const audiovn = "./Classic.mp3";
+const audiovn = "./Tiger.mp3";
     const dooc = {
         audio: {
           url: audiovn
@@ -3410,7 +3410,7 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐮𝐠𝐛𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵  𝐈𝐬 𝐀𝐥𝐢𝐯𝐞",
           body: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
           thumbnailUrl: "https://i.imgur.com/tUqZbZd.jpeg",
           sourceUrl: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
