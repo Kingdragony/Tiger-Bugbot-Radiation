@@ -2980,7 +2980,7 @@ zetsubo.sendMessage(m.chat, { image: { url: search.all[0].thumbnail },  caption:
 break
 //=================================================
 case 'runtime':
-                let pinga = `𝚃𝙸𝙶𝙴𝚁 𝚁𝙰𝙳𝙸𝙾𝙰𝙲𝚃𝙸𝚅𝙴 𝙱𝚄𝙶𝙱𝙾𝚃 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
+                let pinga = `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐫𝐮𝐧𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 ${runtime(process.uptime())}`
                 zetsubo.sendMessage(m.chat, {
                     text: pinga,
                     contextInfo: {
@@ -3410,9 +3410,9 @@ const audiovn = "./Classic.mp3";
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
-          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝐓𝐢𝐠𝐞𝐫 𝐑𝐚𝐝𝐢𝐨𝐚𝐜𝐭𝐢𝐯𝐞 𝐁𝐮𝐠𝐛𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
+          title: "𝐇𝐢 𝐇𝐮𝐦𝐚𝐧,𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐮𝐠𝐛𝐨𝐭 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 𝐚𝐧𝐝 𝐊𝐢𝐜𝐤𝐢𝐧𝐠",
           body: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
-          thumbnailUrl: "https://telegra.ph/file/8ac8289f695113fd799b4.jpg",
+          thumbnailUrl: "https://i.imgur.com/tUqZbZd.jpeg",
           sourceUrl: "https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH",
           mediaType: 1,
           renderLargerThumbnail: true
