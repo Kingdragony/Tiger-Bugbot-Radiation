@@ -2989,7 +2989,7 @@ case 'runtime':
                             title: botname,
                             body: ownername,
                             thumbnailUrl: 'kawai/file-90919-361612 (1) (1).jpg',
-                            sourceUrl: 'https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH',
+                            sourceUrl: 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q',
                             mediaType: 1,
                             renderLargerThumbnail: true
                         }
@@ -3331,7 +3331,7 @@ await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt
 mediaType:  1,
 MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
 title: `THEE DRAGON`,
-sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
+sourceUrl: `https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q`, 
 }
 }})
 break
@@ -3349,8 +3349,8 @@ break
 case 'sc': case 'script': case 'repo':
 await inireact()
 
- zetsubo.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/08f9ac09d340afe3b250c.jpg` }, caption: 
-`┏━━━━━━━━━━━━━━━━━━╼╼╼╼╼╼╼╼╼╼╼╼╮\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ 𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n┗━━━━━━━━━━━━━━━━━╼╼╼╼╼╼╼╯⸼` });
+ zetsubo.sendMessage(m.chat, { image: { url: `https://i.imgur.com/jQh5iIT.jpeg` }, caption: 
+`▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ ⸼` });
 
    break;
 //=================================================
