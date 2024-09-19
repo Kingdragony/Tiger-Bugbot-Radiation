@@ -1,7 +1,7 @@
 /*
 
 › Create By Arlodragon
-› Collaborator Alone
+›  Alone
 
                  
 */
