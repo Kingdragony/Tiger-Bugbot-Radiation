@@ -4648,35 +4648,69 @@ https://cloud.google.com/translate/docs/languages
     }
     break
 //=================================================//
-case 'play': case 'music': case: 'song':{
-			if (!text) return zreply(`*Example :*\n\n*Play Mendua*`)
-			reply(mess.wait);
-			let yts = require("youtube-yts")
-			let look = await yts(text);
-			let convert = look.videos[0];
-			const pl = await youtube(convert.url)
-			await zetsubo.sendMessage(m.chat, {
-				audio: {
-					url: pl.mp3
-				},
-				fileName: convert.title + '.mp3',
-				mimetype: 'audio/mpeg',
-				contextInfo: {
-					externalAdReply: {
-						title: convert.title,
-						body: packname,
-						thumbnailUrl: convert.image,
-						sourceUrl: pl.mp3,
-						mediaType: 1,
-						mediaUrl: convert.url,
-					}
-				},
-			}, {
-				quoted: m
-			})
-		}
-		break
-		
+case 'play':
+    case 'play2': {
+        if (!text) {
+            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙿𝚕𝚊𝚢 𝚂𝚑𝚞𝚜𝚑𝚊 𝙽𝚢𝚊𝚟𝚞 𝚋𝚢 𝙲𝚑𝚛𝚒𝚜𝚝𝚒𝚗𝚊 𝚂𝚞𝚜𝚑𝚘')
+            return;
+        }
+        try {
+            const {
+                videos
+            } = await yts(text);
+            if (!videos || videos.length <= 0) {
+                reply(`No Matching videos found for : *${args[0]}*!!`)
+                return;
+            }
+            let urlYt = videos[0].url
+            let infoYt = await ytdl.getInfo(urlYt);
+            //30 MIN
+            if (infoYt.videoDetails.lengthSeconds >= 1800) {
+                reply(`Too big!\I'm Unable to download big files. 🤥`);
+                return;
+            }
+            const getRandonm = (ext) => {
+                return `${Math.floor(Math.random() * 10000)}${ext}`;
+            };
+            let titleYt = infoYt.videoDetails.title;
+            let randomName = getRandonm(".mp3");
+            const stream = ytdl(urlYt, {
+                    filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
+                })
+                .pipe(fs.createWriteStream(`./${randomName}`));
+            console.log("Audio downloading ->", urlYt);
+            // reply("Downloading.. This may take upto 5 min!");
+            await new Promise((resolve, reject) => {
+                stream.on("error", reject);
+                stream.on("finish", resolve);
+            });
+            
+            let stats = fs.statSync(`./${randomName}`);
+            let fileSizeInBytes = stats.size;
+            // Convert the file size to megabytes (optional)
+            let fileSizeInMegabytes = fileSizeInBytes / (1024 * 1024);
+            console.log("Audio downloaded ! \n Size: " + fileSizeInMegabytes);
+            if (fileSizeInMegabytes <= 40) {
+                //sendFile(from, fs.readFileSync(`./${randomName}`), msg, { audio: true, jpegThumbnail: (await getBuffer(dl.meta.image)).buffer, unlink: true })
+                await client.sendMessage(
+                    from, {
+                        document: fs.readFileSync(`./${randomName}`),
+                        mimetype: "audio/mpeg",
+                        fileName: titleYt + ".mp3",
+			caption: "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1®",    
+                    }, {
+                        quoted: fcontact 
+                    }
+                );
+            } else {
+                reply(`File size bigger.`);
+            }
+            fs.unlinkSync(`./${randomName}`);
+        } catch (e) {
+            reply(e.toString())
+        }
+    }
+break;
 //=================================================//
 case 'masasubur': {
 if (isBan) return reply('*Youre are banned with the owner. You dont have to act cool *')
