@@ -4648,69 +4648,35 @@ https://cloud.google.com/translate/docs/languages
     }
     break
 //=================================================//
-case 'play':
-    case 'music': {
-        if (!text) {
-            reply('𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐚 𝐬𝐞𝐚𝐫𝐜𝐡 𝐭𝐞𝐫𝐦!\n𝐄.𝐠: 𝙷𝙴𝙰𝙳𝙻𝙸𝙶𝙷𝚃𝚂 𝙱𝚈 𝙰𝙻𝙰𝙽 𝚆𝙰𝙻𝙺𝙴𝚁')
-            return;
-        }
-        try {
-            const {
-                videos
-            } = await yts(text);
-            if (!videos || videos.length <= 0) {
-                reply(`No Matching videos found for : *${args[0]}*!!`)
-                return;
-            }
-            let urlYt = videos[0].url
-            let infoYt = await ytdl.getInfo(urlYt);
-            //30 MIN
-            if (infoYt.videoDetails.lengthSeconds >= 1800) {
-                reply(`𝑷𝒍𝒆𝒂𝒔𝒆 𝒔𝒊𝒓\𝑰'𝒎 𝒏𝒐𝒕 𝒂𝒃𝒍𝒆 𝒕𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅 𝒕𝒉𝒂𝒕 𝒇𝒊𝒍𝒆. 🧞‍♂️`);
-                return;
-            }
-            const getRandonm = (ext) => {
-                return `${Math.floor(Math.random() * 10000)}${ext}`;
-            };
-            let titleYt = infoYt.videoDetails.title;
-            let randomName = getRandonm(".mp3");
-            const stream = ytdl(urlYt, {
-                    filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
-                })
-                .pipe(fs.createWriteStream(`./${randomName}`));
-            console.log("Audio downloading ->", urlYt);
-            // reply("Downloading.. This may take upto 5 min!");
-            await new Promise((resolve, reject) => {
-                stream.on("error", reject);
-                stream.on("finish", resolve);
-            });
-            
-            let stats = fs.statSync(`./${randomName}`);
-            let fileSizeInBytes = stats.size;
-            // Convert the file size to megabytes (optional)
-            let fileSizeInMegabytes = fileSizeInBytes / (1024 * 1024);
-            console.log("Audio downloaded ! \n Size: " + fileSizeInMegabytes);
-            if (fileSizeInMegabytes <= 40) {
-                //sendFile(from, fs.readFileSync(`./${randomName}`), msg, { audio: true, jpegThumbnail: (await getBuffer(dl.meta.image)).buffer, unlink: true })
-                await zetsubo.sendMessage(
-                    from, {
-                        document: fs.readFileSync(`./${randomName}`),
-                        mimetype: "audio/mpeg",
-                        fileName: titleYt + ".mp3",
-			caption: "💢 𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 𝐁𝐘 ARLODRAGON  🩸 ",    
-                    }, {
-                        quoted: m 
-                    }
-                );
-            } else {
-                reply(`File size bigger.`);
-            }
-            fs.unlinkSync(`./${randomName}`);
-        } catch (e) {
-            reply(e.toString())
-        }
-    }
-break;
+case 'play': case 'music': case: 'song':{
+			if (!text) return zreply(`*Example :*\n\n*Play Mendua*`)
+			reply(mess.wait);
+			let yts = require("youtube-yts")
+			let look = await yts(text);
+			let convert = look.videos[0];
+			const pl = await youtube(convert.url)
+			await zetsubo.sendMessage(m.chat, {
+				audio: {
+					url: pl.mp3
+				},
+				fileName: convert.title + '.mp3',
+				mimetype: 'audio/mpeg',
+				contextInfo: {
+					externalAdReply: {
+						title: convert.title,
+						body: packname,
+						thumbnailUrl: convert.image,
+						sourceUrl: pl.mp3,
+						mediaType: 1,
+						mediaUrl: convert.url,
+					}
+				},
+			}, {
+				quoted: m
+			})
+		}
+		break
+		
 //=================================================//
 case 'masasubur': {
 if (isBan) return reply('*Youre are banned with the owner. You dont have to act cool *')
