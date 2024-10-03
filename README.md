@@ -125,4 +125,4 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
 
  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝔭𝔬𝔴𝔢𝔯𝔡 𝔟𝔶 ᴀ𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝔭𝔬𝔴𝔢𝔯𝔡 𝔟𝔶 ᴀ𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫." alt="Typing SVG" /></a>
