@@ -184,20 +184,20 @@ var body = (
     m.message.listResponseMessage?.singleSelectReply.selectedRowId ||
     m.message.InteractiveResponseMessage.NativeFlowResponseMessage ||
     m.text :
-  '.'
+  ''
 );
-var budy = (typeof m.text == 'string' ? m.text : '.')
-var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[/^.]/gi)[0] : "^/." : prefa ?? global.prefix
+var budy = (typeof m.text == 'string' ? m.text : '')
+var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[.]/gi)[0] : "." : prefa ?? global.prefix
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
-const command = body.replace(prefix,'.').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
+const command = body.replace(prefix,'').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
 const args = body.trim().split(/ +/).slice(1)
 const pushname = m.pushName || "No Name"
-const text = q = args.join(" ")
+const text = q = args.join(".")
 const { type, quotedMsg, mentioned, now, fromMe } = m
 const quoted = m.quoted ? m.quoted : m
-const mime = (quoted.msg || quoted).mimetype || '.'
+const mime = (quoted.msg || quoted).mimetype || ''
 const isMedia = /image|video|sticker|audio/.test(mime)
 const from = mek.key.remoteJid
 const botNumber = await zetsubo.decodeJid(zetsubo.user.id)
