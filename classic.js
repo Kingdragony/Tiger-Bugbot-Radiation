@@ -186,8 +186,8 @@ var body = (
     m.text :
   ''
 );
-var budy = (typeof m.text == 'string' ? m.text : '')
-var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[.]/gi)[0] : "." : prefa ?? global.prefix
+var budy = (typeof m.text == 'string' ? m.text : '.')
+var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[/^.]/gi)[0] : "^/." : prefa ?? global.prefix
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
