@@ -187,7 +187,7 @@ var body = (
   ''
 );
 var budy = (typeof m.text == 'string' ? m.text : '')
-var prefix = prefa ? /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi.test(body) ? body.match(/^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi)[0] : "" : prefa ?? global.prefix
+var prefix = prefa ? /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi.test(body) ? body.match(/^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi)[0] : "." : prefa ?? global.prefix
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
@@ -620,7 +620,7 @@ sendzip(buffer)
 
 const senddocu = (teks) => {
 zetsubo.sendMessage(from, { document: teks, mimetype: 'application/pdf'}, {quoted:m})
-reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf CLASSIC-V3*')
+reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf TIGER RADIOACTIVE*')
 }
 for (let ikal of docunye) {
 if (budy === ikal) {
