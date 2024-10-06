@@ -191,7 +191,7 @@ var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[.]/gi)[0] : "." : prefa
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
-const command = body.replace(prefix'.').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
+const command = body.replace(prefix'').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
 const args = body.trim().split(/ +/).slice(1)
 const pushname = m.pushName || "No Name"
 const text = q = args.join(".")
