@@ -1,7 +1,7 @@
 /*
 
-› Created By Arlodragon
-›  
+› Create By Arlodragon
+›  Alone
 
                  
 */
@@ -187,14 +187,14 @@ var body = (
   ''
 );
 var budy = (typeof m.text == 'string' ? m.text : '')
-var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[.]/gi)[0] : "." : prefa ?? global.prefix
+var prefix = prefa ? /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi.test(body) ? body.match(/^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/gi)[0] : "" : prefa ?? global.prefix
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
-const command = body.replace(prefix,'').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
+const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
 const args = body.trim().split(/ +/).slice(1)
 const pushname = m.pushName || "No Name"
-const text = q = args.join(".")
+const text = q = args.join(" ")
 const { type, quotedMsg, mentioned, now, fromMe } = m
 const quoted = m.quoted ? m.quoted : m
 const mime = (quoted.msg || quoted).mimetype || ''
@@ -620,7 +620,7 @@ sendzip(buffer)
 
 const senddocu = (teks) => {
 zetsubo.sendMessage(from, { document: teks, mimetype: 'application/pdf'}, {quoted:m})
-reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf TIGER RADIOACTIVE*')
+reply('*Rusak Bodoh !! Yang Bener Contoh : Yopdf CLASSIC-V3*')
 }
 for (let ikal of docunye) {
 if (budy === ikal) {
@@ -1010,7 +1010,7 @@ let messg = `
 ┃
 ┏━━━━━━━━━━━━━━━━━━━━━━
 ┃    🔹 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : 𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃.
-┃    🔸 𝐏𝐫𝐞𝐟𝐢𝐱 : .
+┃    🔸 𝐏𝐫𝐞𝐟𝐢𝐱 : 𝐌𝐮𝐥𝐭𝐢-𝐏𝐫𝐞𝐟𝐢𝐱.
 ┃    🔹 𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
 ┃    🔸 𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}
 ┃ 
@@ -1052,7 +1052,7 @@ const _0xc6d439=_0x1307;function _0x2fda(){const _0x2ca07e=['{\x22display_text\x
 }
 break
 //=================================================//
-case 'Dragon': {
+case 'taira': {
 function _0x4ffd(){const _0x1b4a2a=['49146240VFoPmD','error','131847WfzAfc','addmenu\x22}','{\x22display_text\x22:\x22Bugmenu\x20👾\x22,\x22id\x22:\x22','Footer','relayMessage','Header','downloadmenu\x22}','listmusik\x22}','{\x22display_text\x22:\x22Downloadmenu\x20🪀\x22,\x22id\x22:\x22','key','{\x22display_text\x22:\x22Addmenu\x20🕷️\x22,\x22id\x22:\x22','Error\x20generating\x20and\x20relaying\x20message.','7317540xbmeyC','{\x22display_text\x22:\x22Gamemenu\x20🥳\x22,\x22id\x22:\x22','NativeFlowMessage','753275PAKPPu','12559005cdnUNm','{\x22display_text\x22:\x22Ownermenu\x20🤖\x22,\x22id\x22:\x22','1028HrNCjE','𝕶𝖎𝖓𝖌\x20𝕾𝖆𝖒\x20||\x20ᴸᴼᴿᴰᴛᴀɪʀᴀ','ownermenu\x22}','funmenu\x22}','quick_reply','{\x22display_text\x22:\x22GROUPMENU\x20🫴\x22,\x22id\x22:\x22','2896RGVwod','message','remoteJid','68wBpEMe','Message','create','Error\x20generating\x20and\x20relaying\x20message:','groupmenu\x22}','Body','https://telegra.ph/file/8ac8289f695113fd799b4.jpg','{\x22display_text\x22:\x22Funmenu\x20💫\x22,\x22id\x22:\x22','2066JTiilv','36YOtgAq','InteractiveMessage','23527BBLogj','Error:\x20Invalid\x20message\x20key.'];_0x4ffd=function(){return _0x1b4a2a;};return _0x4ffd();}const _0x3f139f=_0xcddc;function _0xcddc(_0x48f8e4,_0x3b94ab){const _0x4ffdb7=_0x4ffd();return _0xcddc=function(_0xcddcc2,_0x2798bc){_0xcddcc2=_0xcddcc2-0x155;let _0x2826c1=_0x4ffdb7[_0xcddcc2];return _0x2826c1;},_0xcddc(_0x48f8e4,_0x3b94ab);}(function(_0x17753b,_0x4c6cc9){const _0x1df333=_0xcddc,_0xde6f3=_0x17753b();while(!![]){try{const _0x5bc1ac=parseInt(_0x1df333(0x169))/0x1*(-parseInt(_0x1df333(0x17a))/0x2)+-parseInt(_0x1df333(0x157))/0x3*(parseInt(_0x1df333(0x172))/0x4)+parseInt(_0x1df333(0x166))/0x5*(-parseInt(_0x1df333(0x17b))/0x6)+parseInt(_0x1df333(0x17d))/0x7*(parseInt(_0x1df333(0x16f))/0x8)+-parseInt(_0x1df333(0x167))/0x9+-parseInt(_0x1df333(0x163))/0xa+parseInt(_0x1df333(0x155))/0xb;if(_0x5bc1ac===_0x4c6cc9)break;else _0xde6f3['push'](_0xde6f3['shift']());}catch(_0x4c2e5b){_0xde6f3['push'](_0xde6f3['shift']());}}}(_0x4ffd,0xce230));try{let msg=generateWAMessageFromContent(m[_0x3f139f(0x160)]['remoteJid'],{'viewOnceMessage':{'message':{'messageContextInfo':{'deviceListMetadata':{},'deviceListMetadataVersion':0x2},'interactiveMessage':proto['Message']['InteractiveMessage']['create']({'body':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x177)][_0x3f139f(0x174)]({'text':'Click\x20Me\x20🚀'}),'footer':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15a)][_0x3f139f(0x174)]({'text':_0x3f139f(0x16a)}),'header':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x15c)][_0x3f139f(0x174)]({...await prepareWAMessageMedia({'image':{'url':_0x3f139f(0x178)}},{'upload':zetsubo['waUploadToServer']}),'title':'','subtitle':'𝚃ⁱᵍᵉʳ 𝚁ᵃᵈⁱᵒᵃᶜᵗⁱᵛᵉ 𝙱ᵘᵍᵇᵒᵗ','hasMediaAttachment':![]}),'nativeFlowMessage':proto[_0x3f139f(0x173)][_0x3f139f(0x17c)][_0x3f139f(0x165)][_0x3f139f(0x174)]({'buttons':[{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x168)+prefix+_0x3f139f(0x16b)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x159)+prefix+'bugmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x16e)+prefix+_0x3f139f(0x176)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22RANDOMMENU\x20🙋\x22,\x22id\x22:\x22'+prefix+'randommenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x164)+prefix+'gamemenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x15f)+prefix+_0x3f139f(0x15d)},{'name':_0x3f139f(0x16d),'buttonParamsJson':'{\x22display_text\x22:\x22Listmusik\x20🎉\x22,\x22id\x22:\x22'+prefix+_0x3f139f(0x15e)},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x179)+prefix+_0x3f139f(0x16c)},{'name':'quick_reply','buttonParamsJson':'{\x22display_text\x22:\x22Pushmenu\x20👁️\x22,\x22id\x22:\x22'+prefix+'pushmenu\x22}'},{'name':_0x3f139f(0x16d),'buttonParamsJson':_0x3f139f(0x161)+prefix+_0x3f139f(0x158)}]})})}}},{});if(!msg||!msg[_0x3f139f(0x160)]||!msg[_0x3f139f(0x160)][_0x3f139f(0x171)]||!msg[_0x3f139f(0x160)]['id']){const errorMessage=_0x3f139f(0x17e);return console[_0x3f139f(0x156)](errorMessage),reply(errorMessage);}await zetsubo[_0x3f139f(0x15b)](msg[_0x3f139f(0x160)][_0x3f139f(0x171)],msg[_0x3f139f(0x170)],{'messageId':msg[_0x3f139f(0x160)]['id']});}catch(_0x3e0ad4){return console[_0x3f139f(0x156)](_0x3f139f(0x175),_0x3e0ad4),reply(_0x3f139f(0x162));} 
 }
 break
@@ -2114,6 +2114,26 @@ teksooop += `- ${ii}\n`
 }
 zetsreply(teksooop)
 break
+//===================//
+case 'setprefix': {
+ 
+    if (isBan) return reply(mess.banned);	 			
+    if (isBanChat) return reply(mess.bangc);
+    if (!isCreator) return reply(mess.botowner)
+      zetsubo.sendMessage(from, { react: { text: "🌝" , key: m.key }})
+
+    if (args.length !== 1) {
+      return reply(`Please provide a single character as the new prefix.`);
+    } else {
+      const newPrefix = args[0];
+      try {
+        global.prefa = [newPrefix];
+        return reply(`Prefix Successfully changed to "${newPrefix}"`);
+      } catch (error) {
+        console.error('Error changing prefix:', error);
+        return reply(`An error occurred while changing the prefix. Please try again later.`);
+      }
+	}}
 //==============================//
 case 'owner': case 'creator':{
 await inireact()
@@ -2983,7 +3003,7 @@ case 'ytmp4': case 'youtubemp4':
 await inireact()
 			if (args.length == 0) return reply(`Example: ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27`)
     loading()
-			axios.get(`https://giftedapis.us.kg/api/download/ytmp3?url=${apikey}&url=${args[0]}`)
+			axios.get(`https://api.lolhuman.xyz/api/ytvideo2?apikey=${apikey}&url=${args[0]}`)
 				.then(({ data }) => {
 					var caption = `❖ Title    : *${data.result.title}*\n`
 					caption += `❖ Size     : *${data.result.size}*`
@@ -3330,7 +3350,7 @@ case 'sc': case 'script': case 'repo':
 await inireact()
 
  zetsubo.sendMessage(m.chat, { image: { url: `https://i.imgur.com/jQh5iIT.jpeg` }, caption: 
-`▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ ⸼` });
+`┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n\n ❖ 𝑯𝒊 *${pushname}* \n\n ❖ 𝑰 𝒂𝒎 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝐁𝐔𝐆𝐁𝐎𝐓 ☢️.\n\n ❖ 𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.\n\n ❖ 𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.\n\n ❖𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ❖❖ ❴ https://github.com/Kingdragony/Tiger-Bugbot-Radiation ❵\n\n ❖ Channel [ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ].\n\n ❖ 𝑴𝒂𝒅𝒆 𝑩𝒚 ❖ 𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫 ❖\n\n ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛ ⸼` });
 
    break;
 //=================================================
