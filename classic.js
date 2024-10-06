@@ -1,7 +1,7 @@
 /*
 
-› Create By Arlodragon
-›  Alone
+› Created By Arlodragon
+›  
 
                  
 */
@@ -191,7 +191,7 @@ var prefix = prefa ? /^[.]/gi.test(body) ? body.match(/^[.]/gi)[0] : "." : prefa
 
 //=================================================//
 const isCmd = body.startsWith(prefix)
-const command = body.replace(prefix,'').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
+const command = body.replace(prefix'.').trim().split(/ +/).shift().toLowerCase()//Kalau mau Single prefix Lu ganti pake ini = const command = body.slice(1).trim().split(/ +/).shift().toLowerCase()
 const args = body.trim().split(/ +/).slice(1)
 const pushname = m.pushName || "No Name"
 const text = q = args.join(".")
@@ -2114,26 +2114,6 @@ teksooop += `- ${ii}\n`
 }
 zetsreply(teksooop)
 break
-//===================//
-case 'setprefix': {
- 
-    if (isBan) return reply(mess.banned);	 			
-    if (isBanChat) return reply(mess.bangc);
-    if (!isCreator) return reply(mess.botowner)
-      zetsubo.sendMessage(from, { react: { text: "🌝" , key: m.key }})
-
-    if (args.length !== 1) {
-      return reply(`Please provide a single character as the new prefix.`);
-    } else {
-      const newPrefix = args[0];
-      try {
-        global.prefa = [newPrefix];
-        return reply(`Prefix Successfully changed to "${newPrefix}"`);
-      } catch (error) {
-        console.error('Error changing prefix:', error);
-        return reply(`An error occurred while changing the prefix. Please try again later.`);
-      }
-	}}
 //==============================//
 case 'owner': case 'creator':{
 await inireact()
@@ -3003,7 +2983,7 @@ case 'ytmp4': case 'youtubemp4':
 await inireact()
 			if (args.length == 0) return reply(`Example: ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27`)
     loading()
-			axios.get(`https://api.lolhuman.xyz/api/ytvideo2?apikey=${apikey}&url=${args[0]}`)
+			axios.get(`https://giftedapis.us.kg/api/download/ytmp3?url=${apikey}&url=${args[0]}`)
 				.then(({ data }) => {
 					var caption = `❖ Title    : *${data.result.title}*\n`
 					caption += `❖ Size     : *${data.result.size}*`
