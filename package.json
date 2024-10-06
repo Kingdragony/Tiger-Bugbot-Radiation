@@ -1,5 +1,5 @@
 {
-"name": "Haikal Hw",
+"name": "haikal-hw",
 "version": "3.1.0",
 "description": "WhatsApp Using Lib Baileys Multi Device",
 "main": "index.js",
@@ -12,11 +12,11 @@
 "dependencies": {
 "@whiskeysockets/baileys" : "github:anonphoenix007/Baileys-6.6.0",
 "@adiwajshing/keyed-db": "^0.2.4",
-"@hapi/boom": "^10.0.0",
-"awesome-phonenumber": "^2.70.0",
+"@hapi/boom": "^10.0.1",
+"awesome-phonenumber": "^5.10.0",
 "@ffmpeg-installer/ffmpeg": "^1.1.0",
 "@whiskeysockets/baileys": "^6.6.0",
-"axios": "^0.24.0",
+"axios": "^1.4.0",
 "chalk": "^4.1.2",
 "js-cookie": "^3.0.5",
 "cheerio": "^1.0.0-rc.12",
