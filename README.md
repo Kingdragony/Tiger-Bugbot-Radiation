@@ -1,12 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙶𝙴𝚁+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫)](https://git.io/typing-svg)
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+XBUGBOT+CRASH)](https://git.io/typing-svg)
-
-CONTACT BOT DEVELOPER 
-- <a aria-label="Join our chats" href="https://wa.me/254702713600?text=Hi!! `ARLODRAGON` Sir, I need Your Help" target="_blank">
-    <img alt="tiktok" src="https://img.shields.io/badge/CREATOR%20Whatsappchat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ```Bot Support Group Chats```
 
