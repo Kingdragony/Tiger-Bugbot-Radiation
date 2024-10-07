@@ -1,7 +1,5 @@
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=ALL ERRORS FIXED )](https://git.io/typing-svg)
-
 ## ```Bot Support Group Chats```
 
 - [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
