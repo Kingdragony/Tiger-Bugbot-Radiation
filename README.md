@@ -10,7 +10,7 @@
 
 # Setup For Deployment ☊
 
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢+⚡)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗣𝗟𝗘𝗔𝗦𝗘+𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
   [`CLICK HERE TO FORK`](https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork)
 
 ## `Generate Pair Code For Session`
@@ -22,7 +22,7 @@
 
   
     
-⚡ HEROKU BUILDPACKS 
+> HEROKU BUILDPACKS 
   
   
   ```bash
