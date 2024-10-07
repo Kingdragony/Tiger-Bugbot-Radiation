@@ -1,10 +1,3 @@
-/*
-
-
-# Owner ? : 𝕶𝖎𝖓𝖌 𝕾𝖆𝖓
-
-
-*/
 const {
 samConnect,
 downloadContentFromMessage,
