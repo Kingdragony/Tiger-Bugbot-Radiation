@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝚻𝚰𝐆𝚵𝚪+𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+𝙰𝚁𝙻𝙾+𝙳𝚁𝙰𝙶𝙾𝙽;FORK+AND+STAR MY REPO." alt="Typing SVG" /></a>
-<p align="center">
-<img src="https://telegra.ph/file/1335d3dde45b461134016.jpg"/>
 
-</p>
-
-
-
-------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝚃𝙸𝙶𝙴𝚁+𝙱𝚄𝙶𝙱𝙾𝚃+𝚆𝙰𝚂+𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝙰𝔯𝔩𝔬𝔡𝔯𝔞𝔤𝔬𝔫)](https://git.io/typing-svg)
 
@@ -53,11 +44,4 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
-*Add your Creds.json to 𝚃𝙸𝙶𝙴𝚁𝚂𝙴𝚂𝚂𝙸𝙾𝙽 file
-* Create a new app at [Heroku](https://dashboard.heroku.com/new-app)
-* Add Build packs
-* Connect your heroku with your github
-* Locate Tiger-Bugs
-* Now deploy.
-* Start the Worker
-* Enjoy the Bot.
+
