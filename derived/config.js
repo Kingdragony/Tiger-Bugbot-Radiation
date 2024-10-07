@@ -11,9 +11,9 @@ global.ownMain = '254702713600'
 global.NamaOwner = '𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴' //
 global.sessionName = 'session'
 global.connect = true // 
-global.namabot = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' //
-global.author = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' //
-global.packname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1' //
+global.namabot = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
+global.author = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
+global.packname = '𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2' //
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.welcome = false
 global.url1 = 'https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q' //gausah diganti
@@ -35,7 +35,7 @@ premium: 'You are not a premium user.',
 seller: 'This feature can only be used by resellers and owners.',
 usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid?`,
 wait: '*Waiting for processing*',
-success: 'Success sent by 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1',
+success: 'Success sent by 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁2',
 bugrespon: `Processs.....`
 }
 
