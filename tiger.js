@@ -1,10 +1,3 @@
-/*
-
-
-# Owner ? : 𝑨𝑹𝑳𝑶𝑫𝑹𝑨𝑮𝑶𝑵
-
-
-*/
 const {
 samConnect,
 downloadContentFromMessage,
