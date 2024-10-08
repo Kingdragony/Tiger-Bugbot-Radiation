@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+𝗜'𝗠+𝗧𝗜𝗚𝗘𝗥[■■■■■■■■■■]100%............+;A+Multi-fuctional+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;+++++𝗕𝗬+𝗧𝗛𝗘𝗘+𝗗𝗥𝗔𝗚𝗢𝗡" alt="Typing SVG" /></a>  
 
-[`𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐕1`](https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1)/fork)
+[`𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐕1`](https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1/fork)
 
 ## ```Bot Support Group Chats```
 
