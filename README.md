@@ -23,10 +23,7 @@
 .[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://radiator-bugbot-0fca1b340aab.herokuapp.com/pair).
 
   
-    
-                                    
-                                      
-                                      🚨 HEROKU BUILDPACKS 🚨
+ HEROKU BUILDPACKS 
 
                                      
 
