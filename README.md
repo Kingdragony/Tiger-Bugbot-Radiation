@@ -23,5 +23,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
+<a href="https://www.youtube.com/@ARLODRAGON-TECH-HUB"><img title="DEPLOYMENT TUTORIALS" src="https://img.shields.io/badge/DEPLOYMENT TUTORIALS-h?color=red&style=for-the-badge&logo=YouTube"></a>
 
 𝖜𝖍𝖆𝖙𝖘𝖆𝖕𝖕𝖇𝖔𝖙 𝖉𝖊𝖛𝖊𝖑𝖔𝖕𝖊𝖉 𝖇𝖞 𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓.
