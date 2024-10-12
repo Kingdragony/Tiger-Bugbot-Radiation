@@ -3,7 +3,7 @@
 <a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1/fork"><img title="TIGER RADIOACTIVE V1" src="https://img.shields.io/badge/TIGER RADIOACTIVE V1-h?color=blue&style=for-the-badge&logo=stacklike"></a>
 
 
-<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=black&style=for-the-badge&logo=stacklike"></a>
+<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
 
 <a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
