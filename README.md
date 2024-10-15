@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=blackblue&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+𝗜'𝗠+𝗧𝗜𝗚𝗘𝗥[■■■■■■■■■■]100%............+;A+Multi-fuctional+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;+++++𝗕𝗬+𝗧𝗛𝗘𝗘+𝗗𝗥𝗔𝗚𝗢𝗡" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=blackblue&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢............+;A+Multi-fuctional+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;+++++𝗦𝗔𝗙𝗘+𝗙𝗢𝗥+𝗛𝗘𝗥𝗢𝗞𝗨" alt="Typing SVG" /></a>
 
-<a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork"><img title="彡𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝐒𝐏𝐈𝐑𝐀𝐓𝐎𝐑𝐘彡" src="https://img.shields.io/badge/❖𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝐒𝐏𝐈𝐑𝐀𝐓𝐎𝐑𝐘❖-h?color=black&style=for-the-badge&logo=stacklike"></a>
+<a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork"><img title="彡𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢彡" src="https://img.shields.io/badge/❖𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢❖-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
 <a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1"><img title="𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡" src="https://img.shields.io/badge/𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
