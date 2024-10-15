@@ -5,7 +5,7 @@
 
 <a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
 
-<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="𝐓𝐘𝐑𝐀𝐗𝐄𝐒 𝐁𝐎𝐓" src="https://img.shields.io/badge/FORK REPO-h?color=navyblue&style=for-the-badge&logo=robot"></a>
+<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="𝐓𝐘𝐑𝐀𝐗𝐄𝐒 𝐁𝐎𝐓" src="https://img.shields.io/badge/𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐅𝐎𝐑𝐊 𝐓𝐘𝐑𝐀𝐗𝐄𝐒 𝐀𝐍𝐓𝐈𝐁𝐔𝐆-h?color=navyblue&style=for-the-badge&logo=robot"></a>
 
 
 <a href="https://tigercodes-d2affec7cdbf.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
