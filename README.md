@@ -1,5 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=blackblue&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢............+;A+Multi-fuctional+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;+++++𝗦𝗔𝗙𝗘+𝗙𝗢𝗥+𝗛𝗘𝗥𝗢𝗞𝗨" alt="Typing SVG" /></a>
 
+#HELP IN DEPLOYING 
+
+<a target="_blank" href="https://web.whatsapp.com/send?phone=254702713600&text=I%20want%20to%20buy%201%20BUGBOT" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+
+
 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗙𝗢𝗥𝗞 𝗔𝗡𝗬 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗜𝗡𝗚 
 
 <a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork"><img title="彡𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢彡" src="https://img.shields.io/badge/❖𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢❖-h?color=black&style=for-the-badge&logo=stacklike"></a>
