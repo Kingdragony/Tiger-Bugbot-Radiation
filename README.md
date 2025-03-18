@@ -2,7 +2,7 @@
 
 #HELP IN DEPLOYING 
 
-<a target="_blank" href="Http://wa.me/+254702713600&text=I%20want%20to%20buy%201%20BUGBOT" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
+<a target="_blank" href="Http://wa.me/+254702713600?text=I%20want%20to%20buy%201%20BUGBOT" target="_blank"><img title="whatzapp" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 
 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗙𝗢𝗥𝗞 𝗔𝗡𝗬 𝗢𝗙 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬𝗜𝗡𝗚 
