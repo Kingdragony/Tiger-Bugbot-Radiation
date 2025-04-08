@@ -11,7 +11,10 @@
 
 <a href="https://github.com/Kingdragony/Tiger-Bugbot-Radiation/fork"><img title="彡𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢彡" src="https://img.shields.io/badge/❖𝐅𝐎𝐑𝐊 𝐓𝐇𝐈𝐒 𝐑𝐄𝗣𝗢❖-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
-<a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1"><img title="𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡" src="https://img.shields.io/badge/𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡-h?color=black&style=for-the-badge&logo=stacklike"></a>
+<a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1"><img title="𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡" src="https://img.shields.io/badge/𝐓𝐈𝐆𝐄𝐑 𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄 𝐒𝐂𝐑𝐈𝐏𝐓 𝐂𝐋𝐈𝐂𝐊 𝐓𝐎 𝐎𝐏𝐄𝐍彡-h?color=blue&style=for-the-badge&logo=stacklike"></a>
+
+
+<a href="https://github.com/Kingdragony/DRAGON-AI/fork"><img title="DRAGON AI彡" src="https://img.shields.io/badge/DRAGON-AI彡-h?color=blue&style=for-the-badge&logo=stacklike"></a>
 
 
 <a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
